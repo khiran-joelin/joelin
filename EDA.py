@@ -3,25 +3,29 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+
 # 1. Load & Inspect Data
 df = pd.read_csv("initial_dataset.csv")
 print("Columns:", df.columns)
 print(df.head())
 
+
 # Replace nulls in Certification column with "None"
 df['Certification'] = df['Certification'].fillna('None')
-df_clean = df_clean[df_clean["Experience"] <= (df_clean["Age"] - 18)]
-df_clean = df_clean[df_clean["Age"] >= 18]
-print("Shape after Age/Experience cleaning:", df_clean.shape)
-df_clean = df_clean.reset_index(drop=True)  # Reset DataFrame index, drop old index column
-df_clean['S.NO'] = df_clean.index + 1      # Assign new consecutive numbers starting from 1
-df_clean.to_csv('corrected_expanded_job_roles.csv', index=False)
+
+# Replace missing values in Age with median
+df['Age'] = df['Age'].fillna(df['Age'].median())
+
+# Replace missing values in Experience with median
+df['Experience'] = df['Experience'].fillna(df['Experience'].median())
+
 
 # 2. Summary Statistics and Missing Value Analysis
 print("Shape:", df.shape)
 print(df.info())
 print("Missing values per column:\n", df.isnull().sum())
 print("Statistical summary:\n", df.describe(include='all'))
+
 
 # 3. Univariate Analysis
 numerical_cols = ['Age', 'Experience']
@@ -38,6 +42,7 @@ for col in categorical_cols:
     sns.countplot(y=col, data=df, order=df[col].value_counts().index)
     plt.title(f"{col} countplot")
     plt.show()
+
 
 # 4. Bivariate Analysis
 # Scatterplot: Age vs. Experience
@@ -56,6 +61,7 @@ plt.show()
 # Groupby: Mean Experience per Degree
 print(df.groupby("Degree")["Experience"].mean())
 
+
 # 5. Correlation Analysis
 corr = df[numerical_cols].corr()
 print("Correlation matrix:\n", corr)
@@ -64,9 +70,11 @@ sns.heatmap(corr, annot=True)
 plt.title("Correlation Heatmap")
 plt.show()
 
+
 # 6. Pairwise Relationships
 sns.pairplot(df[numerical_cols].dropna())
 plt.show()
+
 
 # 7. Handle Missing Values & Outliers
 df_clean = df.dropna()
@@ -81,3 +89,14 @@ plt.show()
 df_encoded = pd.get_dummies(df_clean, columns=categorical_cols)
 print("Final encoded dataset shape:", df_encoded.shape)
 
+# Additional cleaning rules
+df_clean = df_clean[df_clean["Experience"] <= (df_clean["Age"] - 18)]
+df_clean = df_clean[df_clean["Age"] >= 18]
+print("Shape after Age/Experience cleaning:", df_clean.shape)
+
+# Reset index and add serial number
+df_clean = df_clean.reset_index(drop=True)
+df_clean['S.NO'] = df_clean.index + 1
+
+# Save cleaned dataset
+df_clean.to_csv('corrected_expanded_job_roles.csv', index=False)
