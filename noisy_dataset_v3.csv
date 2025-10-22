@@ -1,0 +1,1001 @@
+S.NO,Degree,Domain,Skill1,Skill2,Skill3,Certification,JobRole,Age,Location,Education_Level,University_Tier
+1,B.Com,Finance,PowerBI,Financial Modeling,Leadership,CFA,Financial Analyst,22,Australia,Bachelor,Tier 2
+2,B.Des,Design,Figma,UI/UX,Communication,,UI/UX Designer,25,USA,Master,Tier 3
+3,MBA,Finance,Financial Modeling,Data Analysis,Excel,,Financial Analyst,22,Australia,Bachelor,Tier 2
+4,MBA,Data Science,PowerBI,Data Analysis,Research,,Data Analyst,28,India,Master,Tier 3
+5,B.Com,Marketing,Excel,Marketing,Communication,,Marketing Specialist,26,Australia,Bachelor,Tier 3
+6,MBA,Sales,CRM,Negotiation,Communication,,Sales Manager,29,Remote,Master,Tier 1
+7,MBA,Business,CRM,Negotiation,Data Analysis,,Business Development Manager,29,Australia,Bachelor,Tier 3
+8,B.Tech,Civil,Surveying,Excel,Research,,Civil Engineer,31,Canada,Bachelor,Tier 2
+9,MBA,Business,Excel,CRM,Communication,,Business Development Manager,27,Germany,Diploma,Tier 1
+10,B.Tech,Electrical,TCP/IP,Networking,Data Analysis,CCNA,Network Engineer,25,Germany,Bachelor,Tier 2
+11,MBA,Design,UI/UX,Graphic Design,Project Management,,UI/UX Designer,27,Canada,Master,Tier 3
+12,Ph.D,Data Science,SQL,Machine Learning,Data Analysis,Google Cloud,Machine Learning Engineer,33,Remote,Bachelor,Tier 3
+13,B.Tech,Civil,Project Management,Design,Data Analysis,,Civil Engineer,33,Canada,Bachelor,Tier 2
+14,M.Tech,Electrical,MATLAB,PLC,Excel,,Electrical Engineer,30,USA,Diploma,Tier 3
+15,B.Com,Data Science,Python,SQL,Data Analysis,Google Cloud,Data Analyst,24,Australia,Bachelor,Tier 2
+16,B.Des,Design,Prototyping,UI/UX,Data Analysis,,UI/UX Designer,28,Germany,PhD,Tier 2
+17,M.Tech,Civil,Surveying,Construction,HTML/CSS,,Civil Engineer,36,Germany,Bachelor,Tier 2
+18,BBA,Marketing,SEO,Social Media,HTML/CSS,Google Cloud,Marketing Specialist,21,Australia,Master,Tier 2
+19,MBA,Media,Content Strategy,Communication,SQL,,Content Writer,22,Australia,Bachelor,Tier 2
+20,B.Tech,Mechanical,CAD,Thermodynamics,Excel,,Mechanical Engineer,22,Germany,Master,Tier 3
+21,M.Tech,Data Science,Statistics,Machine Learning,Excel,AWS,Data Scientist,23,USA,Bachelor,Tier 2
+22,B.Tech,Civil,Construction,Project Management,Leadership,,Civil Engineer,26,UK,Diploma,Tier 2
+23,M.Tech,Civil,Project Management,Construction,Research,,Civil Engineer,27,Remote,Bachelor,Tier 1
+24,B.Tech,Operations,,Supply Chain,HTML/CSS,,Supply Chain Manager,30,USA,Master,Tier 2
+25,B.Com,Business,Excel,UML,Leadership,,Business Analyst,31,USA,Master,Tier 2
+26,B.Com,Data Science,Python,PowerBI,SQL,,Data Analyst,,Canada,Bachelor,Tier 2
+27,BBA,Sales,Negotiation,Excel,Python,,Sales Manager,25,UK,Master,Tier 3
+28,M.Tech,Civil,Surveying,Construction,Excel,,Civil Engineer,23,Remote,Bachelor,Tier 3
+29,B.Tech,Data Science,PowerBI,SQL,Python,,Data Analyst,30,Canada,Master,Tier 2
+30,MBA,Business,Sales,Excel,Research,,Business Development Manager,22,Australia,PhD,Tier 2
+31,MBA,Business,UML,Excel,Data Analysis,PMP,Business Analyst,30,Remote,PhD,Tier 1
+32,MBA,Media,Writing,Content Strategy,Communication,,Content Writer,29,Australia,Bachelor,Tier 1
+33,B.Com,Business,Communication,Data Analysis,SQL,,Business Analyst,32,Remote,Master,Tier 3
+34,B.Tech,Business,Communication,Stakeholder Mgmt,Leadership,,Business Analyst,28,USA,Master,Tier 1
+35,M.Tech,Civil,Excel,Surveying,HTML/CSS,,Civil Engineer,24,USA,Bachelor,Tier 3
+36,M.Tech,Mechanical,Design,CAD,Excel,,Mechanical Engineer,30,Australia,Bachelor,Tier 2
+37,MBA,Sales,Negotiation,CRM,Excel,,Sales Manager,35,UK,Master,Tier 1
+38,B.Com,Business,UML,SQL,Python,,Business Analyst,37,Australia,PhD,Tier 2
+39,Ph.D,Biotech,PCR,Research,Python,,Biotech Researcher,31,Canada,Master,Tier 2
+40,MBA,Operations,Excel,Supply Chain,Project Management,,Operations Manager,30,Remote,Bachelor,Tier 2
+41,M.Tech,Chemical,Safety,Process Design,Excel,,Chemical Engineer,34,USA,Bachelor,Tier 2
+42,M.Tech,Civil,Surveying,Excel,Python,,Civil Engineer,33,Germany,Master,Tier 2
+43,M.Tech,Data Science,Python,Hadoop,Excel,AWS,Data Engineer,25,Germany,Bachelor,Tier 2
+44,Ph.D,Biotech,Documentation,Data Analysis,Python,,Biotech Researcher,25,Germany,Bachelor,Tier 3
+45,MBA,Operations,Operations,ERP,Research,,Operations Manager,31,Remote,PhD,Tier 2
+46,BBA,HR,Payroll,Excel,Communication,,HR Manager,24,USA,Bachelor,Tier 1
+47,M.Tech,Security,Python,Network,Data Analysis,,Security Analyst,31,Australia,Bachelor,Tier 2
+48,MBA,Operations,Supply Chain,ERP,Excel,,Supply Chain Manager,28,Remote,Bachelor,Tier 2
+49,BBA,Sales,Excel,Strategy,Python,,Sales Manager,23,Canada,Master,Tier 3
+50,M.Tech,,Project Management,Risk Mgmt,SQL,PMP,Project Manager,30,India,Bachelor,Tier 3
+51,M.Tech,Electrical,Networking,TCP/IP,Excel,CCNA,Network Engineer,25,Australia,Master,Tier 3
+52,MBA,Management,Excel,Project Management,Leadership,Scrum,Project Manager,28,Canada,Master,Tier 2
+53,M.Sc,Biotech,Biology,PCR,Excel,,Biotech Researcher,24,Remote,Bachelor,Tier 2
+54,B.Tech,Computer Science,Cloud,AWS,Project Management,Google Cloud,Cloud Engineer,36,Remote,Bachelor,Tier 1
+55,M.Tech,Civil,Construction,AutoCAD,SQL,,Civil Engineer,32,India,Bachelor,Tier 2
+56,Ph.D,Data Science,SQL,Python,Communication,Google Cloud,,38,Australia,Bachelor,Tier 3
+57,M.Tech,Electrical,Design,PLC,Excel,,Electrical Engineer,24,USA,Bachelor,Tier 2
+58,MBA,Media,Content Strategy,Editing,Python,,Content Writer,21,Canada,Bachelor,Tier 3
+59,BBA,Sales,Negotiation,Communication,Excel,,Sales Manager,22,USA,Master,Tier 3
+60,BBA,Sales,Leadership,Excel,Research,,Sales Manager,23,India,Bachelor,Tier 2
+61,M.Tech,Mechanical,CAD,Thermodynamics,SQL,,Mechanical Engineer,31,Canada,Master,Tier 2
+62,B.Tech,Security,Security,Linux,SQL,,Security Analyst,30,India,Bachelor,Tier 2
+63,B.Tech,Security,Network,Linux,Communication,CCNA,Security Analyst,32,India,Bachelor,Tier 2
+64,B.Tech,Operations,Operations,Excel,Communication,,Operations Manager,31,Canada,Bachelor,Tier 2
+65,Ph.D,Biotech,Biology,Lab Techniques,Project Management,,Biotech Researcher,37,Remote,Bachelor,Tier 1
+66,BBA,HR,Recruitment,Communication,Excel,,HR Manager,25,Germany,Bachelor,Tier 1
+67,B.Sc,Data Science,SQL,Python,Project Management,,Data Analyst,26,UK,Bachelor,Tier 2
+68,M.Sc,Biotech,Lab Techniques,Data Analysis,Excel,,Biotech Researcher,23,Remote,PhD,Tier 2
+69,BBA,Sales,Communication,CRM,Python,,Sales Manager,33,Australia,Bachelor,Tier 3
+70,MBA,Marketing,SEO,Marketing,Leadership,Google Cloud,Marketing Specialist,32,Remote,Bachelor,Tier 3
+71,B.Com,Business,UML,SQL,Python,PMP,Business Analyst,23,Germany,Master,Tier 2
+72,M.Tech,Security,Security,Python,Project Management,,Security Analyst,37,India,Master,Tier 3
+73,MBA,Business,Stakeholder Mgmt,Excel,HTML/CSS,,Business Analyst,32,Australia,Master,Tier 3
+74,B.Tech,Civil,AutoCAD,Excel,Research,,Civil Engineer,25,India,Bachelor,Tier 2
+75,MCA,Computer Science,Docker,Cloud,HTML/CSS,AWS,Cloud Engineer,25,USA,Master,Tier 3
+76,M.Tech,Electrical,Proteus,MATLAB,Data Analysis,,Electrical Engineer,32,UK,Master,Tier 3
+77,B.Tech,Chemical,Chemistry,MATLAB,HTML/CSS,,Chemical Engineer,32,Remote,Bachelor,Tier 3
+78,B.Tech,Mechanical,Thermodynamics,Project Mgmt,Research,,Mechanical Engineer,25,Australia,Bachelor,Tier 3
+79,BBA,Business,Negotiation,Strategy,Research,,Business Development Manager,24,UK,Master,Tier 1
+80,B.Tech,Civil,AutoCAD,Excel,Data Analysis,,Civil Engineer,27,UK,PhD,Tier 3
+81,MBA,Operations,Operations,ERP,Data Analysis,,Operations Manager,35,UK,Diploma,Tier 2
+82,MBA,Data Science,Data Analysis,Python,SQL,,Data Analyst,33,India,Bachelor,Tier 2
+83,MBA,Operations,Analytics,Supply Chain,Python,,Supply Chain Manager,31,Remote,Master,Tier 2
+84,B.Tech,Civil,Design,Project Management,Excel,,Civil Engineer,35,USA,Master,Tier 2
+85,B.Tech,Chemical,Excel,Process Design,Leadership,,Chemical Engineer,21,UK,PhD,Tier 1
+86,M.Tech,Security,Security,Network,Leadership,CCNA,Security Analyst,139.0677191,USA,Bachelor,Tier 2
+87,BBA,Marketing,Analytics,Communication,Data Analysis,,Marketing Specialist,21,Remote,Bachelor,Tier 3
+88,M.Tech,Security,Linux,Python,Research,CCNA,Security Analyst,27,UK,Master,Tier 3
+89,B.Com,Data Science,SQL,Excel,Leadership,Google Cloud,Data Analyst,23,Remote,Master,Tier 2
+90,B.Tech,Electrical,Proteus,MATLAB,Leadership,,Electrical Engineer,27,India,Bachelor,Tier 3
+91,M.Sc,Data Science,Statistics,Pandas,Excel,Google Cloud,Data Scientist,32,Canada,Bachelor,Tier 2
+92,MBA,Business,Data Analysis,Stakeholder Mgmt,Research,PMP,Business Analyst,34,Germany,Master,Tier 2
+93,B.Tech,Chemical,Simulation,Process Design,Leadership,,Chemical Engineer,25,Canada,Bachelor,Tier 2
+94,B.Tech,Security,Incident Response,Python,Leadership,,Security Analyst,23,Canada,Bachelor,Tier 1
+95,B.Tech,Operations,Supply Chain,Analytics,Communication,,Operations Manager,26,Australia,Bachelor,Tier 3
+96,M.Tech,Security,Linux,Incident Response,Leadership,,Security Analyst,25,Australia,Master,Tier 2
+97,M.Tech,Chemical,Chemistry,Safety,Python,,Chemical Engineer,27,Canada,Bachelor,Tier 2
+98,MBA,Marketing,Communication,Excel,SQL,,Marketing Specialist,24,Germany,Master,Tier 2
+99,B.Tech,Civil,Construction,Design,HTML/CSS,,Civil Engineer,34,UK,Bachelor,Tier 2
+100,M.Sc,Data Science,Statistics,Machine Learning,Project Management,Google Cloud,Data Scientist,21,USA,Bachelor,Tier 2
+101,Ph.D,Biotech,Research,Data Analysis,Excel,,Biotech Researcher,39,Germany,Bachelor,Tier 2
+102,M.Tech,Chemical,Chemistry,Simulation,Communication,,Chemical Engineer,32,Canada,Master,Tier 3
+103,M.Tech,Mechanical,Thermodynamics,Design,Data Analysis,,Mechanical Engineer,25,Remote,Master,Tier 2
+104,MBA,Sales,Strategy,Communication,Data Analysis,,Sales Manager,37,Germany,Bachelor,Tier 2
+105,B.Tech,Operations,ERP,Analytics,Leadership,,Operations Manager,28,Remote,PhD,Tier 2
+106,BBA,HR,Communication,Leadership,SQL,,HR Manager,26,Canada,Bachelor,Tier 3
+107,B.Tech,Electrical,Proteus,,HTML/CSS,,Electrical Engineer,28,USA,Master,Tier 3
+108,MBA,Business,Sales,Communication,Project Management,,Business Development Manager,23,Remote,Master,Tier 2
+109,M.Tech,Chemical,Chemistry,Process Design,SQL,,Chemical Engineer,38,Canada,Master,Tier 3
+110,MBA,Management,Communication,Project Management,SQL,Scrum,Project Manager,29,Canada,Diploma,Tier 2
+111,M.Tech,Security,Security,Linux,HTML/CSS,,Security Analyst,34,Canada,Bachelor,Tier 3
+112,MBA,Marketing,Communication,Analytics,Project Management,Google Cloud,Marketing Specialist,24,Remote,Bachelor,Tier 1
+113,BBA,HR,Labor Laws,Excel,HTML/CSS,,HR Manager,36,USA,PhD,Tier 2
+114,M.Sc,Data Science,Machine Learning,Python,SQL,,Machine Learning Engineer,35,Canada,Bachelor,Tier 1
+115,B.Tech,Operations,Leadership,ERP,HTML/CSS,,Operations Manager,31,UK,Master,Tier 2
+116,MCA,Data Science,Data Analysis,SQL,Python,,Data Scientist,30,Australia,Master,Tier 2
+117,B.Tech,Operations,Leadership,Supply Chain,Research,,Operations Manager,24,Canada,Bachelor,Tier 3
+118,MBA,HR,Labor Laws,Payroll,SQL,,HR Manager,28,Australia,Master,Tier 3
+119,M.Tech,Data Science,Data Analysis,SQL,HTML/CSS,Google Cloud,Data Scientist,27,Australia,Bachelor,Tier 2
+120,B.Com,Marketing,Communication,Marketing,HTML/CSS,Google Cloud,Marketing Specialist,26,UK,Master,Tier 2
+121,B.Tech,Civil,Design,Construction,SQL,,Civil Engineer,35,Remote,Bachelor,Tier 2
+122,BBA,Marketing,Analytics,Social Media,HTML/CSS,,Marketing Specialist,28,Australia,Master,Tier 3
+123,B.Tech,Security,Network,Security,Research,,Security Analyst,29,Australia,Bachelor,Tier 2
+124,MBA,Sales,CRM,Strategy,Project Management,,Sales Manager,22,UK,Bachelor,Tier 1
+125,B.Tech,Operations,Operations,Excel,Python,,Operations Manager,24,Canada,PhD,Tier 1
+126,M.Tech,Electrical,TCP/IP,Networking,SQL,CCNA,Network Engineer,24,Remote,Bachelor,Tier 2
+127,M.Tech,Data Science,Machine Learning,Statistics,Leadership,Google Cloud,Data Scientist,30,Australia,Diploma,Tier 3
+128,Ph.D,Data Science,Statistics,SQL,Research,Google Cloud,Data Scientist,28,India,Bachelor,Tier 2
+129,B.Tech,Mechanical,SolidWorks,Project Mgmt,Project Management,,Mechanical Engineer,23,Australia,Master,Tier 2
+130,M.Tech,Electrical,Networking,Routers,Data Analysis,CCNA,Network Engineer,28,India,Master,Tier 3
+131,B.Tech,Civil,AutoCAD,Excel,HTML/CSS,,Civil Engineer,26,Australia,Bachelor,Tier 2
+132,B.Tech,Operations,ERP,Leadership,Excel,,Operations Manager,29,Germany,Master,Tier 2
+133,B.Tech,Civil,Excel,Design,Project Management,,Civil Engineer,33,Germany,Diploma,Tier 3
+134,Ph.D,Data Science,SQL,Machine Learning,Data Analysis,AWS,Data Scientist,35,Germany,Bachelor,Tier 3
+135,B.Tech,Civil,AutoCAD,Construction,Communication,,Civil Engineer,23,USA,Master,Tier 2
+136,MBA,Sales,Leadership,Excel,Research,,Sales Manager,31,Germany,PhD,Tier 1
+137,B.Tech,Operations,ERP,Analytics,Data Analysis,,Operations Manager,28,Germany,PhD,Tier 2
+138,M.Tech,Data Science,SQL,Hadoop,Leadership,,Data Engineer,35,India,Bachelor,Tier 2
+139,M.Tech,Electrical,Design,MATLAB,Leadership,,Electrical Engineer,27,Australia,Master,Tier 3
+140,M.Tech,Management,Communication,Project Management,Research,PMP,Project Manager,24,Remote,Bachelor,Tier 2
+141,MA,Media,Research,Content Strategy,Project Management,,Content Writer,33,Remote,PhD,Tier 1
+142,B.Des,Design,Graphic Design,UI/UX,SQL,,UI/UX Designer,22,UK,Bachelor,Tier 3
+143,B.Sc,Biotech,Data Analysis,Research,Leadership,,Biotech Researcher,124.4001379,USA,Bachelor,Tier 1
+144,Ph.D,Data Science,TensorFlow,Machine Learning,Data Analysis,AWS,Machine Learning Engineer,28,Australia,PhD,Tier 2
+145,MBA,Data Science,Data Analysis,SQL,Research,Google Cloud,Data Analyst,34,Canada,Diploma,Tier 2
+146,MBA,Business,Stakeholder Mgmt,UML,Leadership,,Business Analyst,35,India,Master,Tier 1
+147,MBA,Business,Communication,Excel,Research,,Business Analyst,36,Australia,Diploma,Tier 3
+148,M.Tech,Civil,Design,AutoCAD,Communication,,Civil Engineer,29,Germany,Bachelor,Tier 3
+149,MCA,Data Science,Pandas,Data Analysis,Python,,Data Scientist,32,USA,Master,Tier 2
+150,MBA,Finance,Financial Modeling,SQL,HTML/CSS,,Financial Analyst,24,USA,Bachelor,Tier 2
+151,B.Com,Finance,Excel,Financial Modeling,Communication,CFA,Financial Analyst,26,India,Diploma,Tier 3
+152,M.Tech,Computer Science,Azure,Cloud,Project Management,Azure,Cloud Engineer,35,UK,Bachelor,Tier 1
+153,B.Tech,Security,SIEM,Incident Response,Communication,,Security Analyst,25,Australia,Bachelor,Tier 2
+154,M.Tech,Management,Project Management,Risk Mgmt,HTML/CSS,PMP,Project Manager,24,India,Bachelor,Tier 1
+155,M.Tech,Mechanical,CAD,MATLAB,Python,,Mechanical Engineer,26,USA,PhD,Tier 2
+156,BBA,Sales,CRM,Leadership,Research,,Sales Manager,25,Canada,Bachelor,Tier 2
+157,MBA,Sales,Excel,Negotiation,Python,,Sales Manager,34,UK,Bachelor,Tier 2
+158,MCA,Data Science,Statistics,Data Analysis,Project Management,,Data Scientist,31,Australia,Bachelor,Tier 2
+159,B.Tech,Electrical,MATLAB,PLC,Excel,,Electrical Engineer,23,India,Bachelor,Tier 2
+160,M.Tech,Electrical,MATLAB,Proteus,HTML/CSS,,Electrical Engineer,38,USA,Bachelor,Tier 3
+161,B.Tech,Design,UI/UX,Figma,Project Management,,UI/UX Designer,30,Canada,Bachelor,Tier 2
+162,MBA,HR,Excel,Payroll,Python,,HR Manager,32,USA,PhD,Tier 2
+163,B.Tech,Business,Stakeholder Mgmt,Data Analysis,Leadership,,Business Analyst,28,UK,Master,Tier 3
+164,MBA,HR,Excel,Recruitment,HTML/CSS,,HR Manager,29,India,Bachelor,Tier 2
+165,B.Tech,Security,SIEM,Incident Response,Project Management,CCNA,Security Analyst,32,Remote,Master,Tier 2
+166,BBA,Business,Excel,Sales,Excel,,Business Development Manager,27,India,Master,Tier 2
+167,B.Tech,Security,Incident Response,Linux,HTML/CSS,CCNA,Security Analyst,27,Remote,Bachelor,Tier 3
+168,M.Sc,Biotech,Research,Lab Techniques,HTML/CSS,,Biotech Researcher,29,Australia,PhD,Tier 3
+169,B.Tech,Mechanical,MATLAB,Design,SQL,,Mechanical Engineer,38,USA,Master,Tier 2
+170,Ph.D,Data Science,Machine Learning,Statistics,Communication,Google Cloud,Data Scientist,22,Germany,Master,Tier 1
+171,M.Tech,Security,Linux,Network,Python,,Security Analyst,24,Remote,Bachelor,Tier 3
+172,B.Tech,Operations,Leadership,ERP,SQL,,Operations Manager,24,USA,Master,Tier 2
+173,Ph.D,Biotech,PCR,Research,HTML/CSS,,Biotech Researcher,26,Canada,Master,Tier 3
+174,B.Tech,Chemical,Process Design,MATLAB,Research,,Chemical Engineer,35,UK,Diploma,Tier 2
+175,M.Tech,Civil,Project Management,Surveying,Data Analysis,,Civil Engineer,29,Australia,Bachelor,Tier 3
+176,BBA,Sales,Excel,Strategy,SQL,,Sales Manager,27,USA,Bachelor,Tier 2
+177,B.Tech,Data Science,Python,Tableau,Leadership,Google Cloud,Data Analyst,32,Australia,Bachelor,Tier 2
+178,MBA,Sales,CRM,Negotiation,SQL,,Sales Manager,26,Germany,Bachelor,Tier 2
+179,MBA,Business,CRM,Communication,Project Management,,Business Development Manager,31,India,Master,Tier 2
+180,M.Tech,Data Science,SQL,Python,Leadership,Google Cloud,Data Engineer,24,USA,Bachelor,Tier 2
+181,BBA,Marketing,Social Media,Marketing,Excel,Google Cloud,Marketing Specialist,24,UK,Master,Tier 3
+182,MBA,Marketing,Social Media,Excel,HTML/CSS,Google Cloud,Marketing Specialist,22,Germany,Bachelor,Tier 1
+183,M.Tech,Chemical,Simulation,Excel,Project Management,,Chemical Engineer,28,Remote,Bachelor,Tier 1
+184,MBA,Business,Data Analysis,Excel,Leadership,,Business Analyst,35,USA,Master,Tier 2
+185,M.Tech,Data Science,Python,Machine Learning,Research,Google Cloud,Data Scientist,35,Germany,Master,Tier 2
+186,MBA,Business,Excel,Communication,Research,PMP,Business Analyst,22,Remote,Master,Tier 2
+187,BBA,HR,Payroll,Leadership,SQL,,HR Manager,22,USA,Diploma,Tier 2
+188,B.Tech,Electrical,MATLAB,PLC,SQL,,Electrical Engineer,35,Canada,Master,Tier 3
+189,MCA,Computer Science,Terraform,Cloud,Data Analysis,Azure,Cloud Engineer,28,USA,PhD,Tier 2
+190,B.Tech,Operations,ERP,Supply Chain,Leadership,,Operations Manager,31,UK,Diploma,Tier 3
+191,B.Tech,Civil,AutoCAD,Design,Leadership,,Civil Engineer,29,Canada,Bachelor,Tier 3
+192,Ph.D,Biotech,Research,PCR,Project Management,,Biotech Researcher,35,UK,Master,Tier 2
+193,B.Tech,Mechanical,MATLAB,SolidWorks,Project Management,,Mechanical Engineer,31,USA,Master,Tier 2
+194,M.Tech,Data Science,ETL,Spark,Research,Google Cloud,Data Engineer,28,Remote,Master,Tier 3
+195,M.Tech,Data Science,Machine Learning,PyTorch,Research,AWS,Machine Learning Engineer,,Remote,Bachelor,Tier 2
+196,M.Tech,Mechanical,Design,SolidWorks,Data Analysis,,Mechanical Engineer,31,USA,Master,Tier 2
+197,M.Tech,Data Science,Data Analysis,Python,Excel,,Data Scientist,22,USA,PhD,Tier 1
+198,B.Tech,Electrical,Circuits,Proteus,Research,,Electrical Engineer,30,UK,Bachelor,Tier 3
+199,B.Com,Finance,Financial Modeling,Accounting,HTML/CSS,CFA,Financial Analyst,29,UK,Bachelor,Tier 1
+200,MBA,Data Science,Excel,Python,SQL,,Data Analyst,26,India,Bachelor,Tier 3
+201,B.Tech,Design,HTML/CSS,UI/UX,Leadership,,UI/UX Designer,32,Australia,Master,Tier 2
+202,BBA,HR,Payroll,Leadership,Communication,,HR Manager,23,Canada,Diploma,Tier 3
+203,BBA,Sales,Strategy,Excel,Python,,Sales Manager,21,Germany,Bachelor,Tier 2
+204,M.Tech,Civil,Excel,Design,Project Management,,Civil Engineer,24,India,Bachelor,Tier 2
+205,MCA,Data Science,Data Analysis,Pandas,HTML/CSS,Google Cloud,Data Scientist,34,Canada,Bachelor,Tier 2
+206,BBA,HR,Labor Laws,Recruitment,Project Management,,HR Manager,21,Germany,Bachelor,Tier 2
+207,B.Tech,Data Science,Python,PowerBI,Project Management,,Data Analyst,26,India,Master,Tier 1
+208,MBA,HR,Recruitment,Labor Laws,Leadership,,HR Manager,26,India,Bachelor,Tier 3
+209,MBA,Finance,Accounting,Financial Modeling,SQL,CFA,Financial Analyst,33,Canada,Master,Tier 1
+210,MBA,Business,Communication,CRM,SQL,,Business Development Manager,35,Remote,Master,Tier 2
+211,B.Com,Business,Stakeholder Mgmt,Data Analysis,Excel,,Business Analyst,25,India,Bachelor,Tier 2
+212,M.Tech,Civil,AutoCAD,Excel,Data Analysis,,Civil Engineer,28,Germany,Bachelor,Tier 1
+213,MBA,Sales,Negotiation,Strategy,Project Management,,Sales Manager,23,USA,Bachelor,Tier 2
+214,BBA,HR,Leadership,Payroll,Communication,,HR Manager,31,UK,Bachelor,Tier 2
+215,MBA,Design,Graphic Design,UI/UX,Research,,UI/UX Designer,32,Remote,Master,Tier 3
+216,B.Tech,Business,UML,Excel,Communication,PMP,Business Analyst,37,Germany,Bachelor,Tier 2
+217,B.Tech,Operations,Supply Chain,Excel,Communication,,Operations Manager,27,Australia,Bachelor,Tier 2
+218,M.Tech,Data Science,Pandas,SQL,Research,,Data Scientist,37,Germany,Bachelor,Tier 2
+219,MBA,Business,Negotiation,Excel,Leadership,,Business Development Manager,35,India,Master,Tier 2
+220,M.Tech,Management,Project Management,Risk Mgmt,SQL,Scrum,Project Manager,22,Remote,Bachelor,Tier 2
+221,Ph.D,Biotech,Lab Techniques,Biology,Research,,Biotech Researcher,23,Canada,PhD,Tier 2
+222,B.Sc,Biotech,Data Analysis,Research,Project Management,,Biotech Researcher,25,India,Bachelor,Tier 2
+223,MBA,Management,Communication,Scrum,Excel,PMP,Scrum Master,30,Germany,Master,Tier 2
+224,M.Sc,Biotech,PCR,Documentation,Excel,,Biotech Researcher,33,India,Bachelor,Tier 2
+225,MBA,Operations,Supply Chain,Planning,SQL,,Supply Chain Manager,23,Australia,Bachelor,Tier 3
+226,B.Tech,Chemical,Safety,Chemistry,Excel,,Chemical Engineer,32,USA,Bachelor,Tier 2
+227,B.Tech,Security,Network,Linux,Leadership,CCNA,Security Analyst,34,USA,Master,Tier 2
+228,B.Tech,Electrical,Circuits,Proteus,Research,,Electrical Engineer,29,Germany,Diploma,Tier 2
+229,M.Tech,Electrical,Circuits,Power Systems,Data Analysis,,Electrical Engineer,31,Canada,Bachelor,Tier 1
+230,B.Tech,Data Science,ETL,Python,Research,,Data Engineer,27,UK,Master,Tier 3
+231,MBA,Data Science,Data Analysis,Excel,Research,AWS,Data Analyst,26,India,Master,Tier 2
+232,B.Tech,Mechanical,Project Mgmt,Thermodynamics,Python,,Mechanical Engineer,31,USA,Bachelor,Tier 2
+233,M.Tech,Security,SIEM,Incident Response,,,Security Analyst,36,India,Bachelor,Tier 3
+234,B.Tech,Electrical,Design,Circuits,Leadership,,Electrical Engineer,27,Canada,Bachelor,Tier 2
+235,M.Tech,Electrical,Circuits,MATLAB,Communication,,Electrical Engineer,33,USA,Bachelor,Tier 2
+236,M.Tech,Electrical,Power Systems,Design,Communication,,Electrical Engineer,25,Germany,Bachelor,Tier 1
+237,MBA,HR,Recruitment,Payroll,Communication,,HR Manager,34,Australia,Bachelor,Tier 3
+238,MBA,Business,Data Analysis,Communication,Python,PMP,Business Analyst,35,USA,Diploma,Tier 1
+239,MBA,Business,Sales,CRM,Excel,,Business Development Manager,28,India,Bachelor,Tier 2
+240,MBA,Business,CRM,Sales,SQL,,Business Development Manager,30,Canada,Master,Tier 3
+241,B.Tech,Security,SIEM,Security,Project Management,,Security Analyst,34,Remote,Master,Tier 3
+242,BBA,Marketing,Social Media,SEO,Leadership,,Marketing Specialist,36,USA,PhD,Tier 1
+243,Ph.D,Biotech,Data Analysis,Documentation,Communication,,Biotech Researcher,24,Canada,Bachelor,Tier 2
+244,MBA,Design,UI/UX,Graphic Design,Communication,,UI/UX Designer,28,Australia,Bachelor,Tier 2
+245,B.Sc,Biotech,PCR,Biology,Research,,Biotech Researcher,23,Remote,Master,Tier 3
+246,B.Tech,Operations,Operations,Leadership,Excel,,Operations Manager,27,Australia,Master,Tier 2
+247,MBA,Business,Excel,CRM,SQL,,Business Development Manager,29,Remote,Master,Tier 2
+248,M.Tech,Chemical,Process Design,Simulation,HTML/CSS,,Chemical Engineer,27,Australia,Bachelor,Tier 2
+249,M.Tech,Electrical,Networking,Routers,Excel,CCNA,Network Engineer,27,Remote,PhD,Tier 2
+250,M.Tech,Data Science,Spark,Python,HTML/CSS,Google Cloud,Data Engineer,30,India,Bachelor,Tier 3
+251,B.Tech,Data Science,Hadoop,Spark,Communication,Google Cloud,Data Engineer,23,Germany,Master,Tier 3
+252,B.Tech,Chemical,Safety,Process Design,HTML/CSS,,Chemical Engineer,27,Remote,Bachelor,Tier 2
+253,B.Tech,Data Science,SQL,Hadoop,Python,,Data Engineer,25,Australia,Bachelor,Tier 2
+254,BBA,Business,Communication,Negotiation,Data Analysis,,Business Development Manager,26,USA,Bachelor,Tier 2
+255,B.Tech,Business,SQL,UML,Excel,,Business Analyst,26,India,PhD,Tier 3
+256,B.Sc,Data Science,Excel,Python,Data Analysis,,Data Analyst,33,Australia,Bachelor,Tier 2
+257,M.Tech,Computer Science,Cloud,Python,Research,AWS,Cloud Engineer,24,Australia,Bachelor,Tier 3
+258,M.Tech,Electrical,Routers,Networking,Leadership,CCNA,Network Engineer,24,India,Master,Tier 3
+259,M.Tech,Data Science,Statistics,Data Analysis,HTML/CSS,Google Cloud,Data Scientist,,UK,Bachelor,Tier 3
+260,B.Tech,Civil,Construction,Excel,Leadership,,Civil Engineer,25,Germany,Bachelor,Tier 1
+261,M.Tech,Electrical,Circuits,Proteus,SQL,,Electrical Engineer,22,India,Bachelor,Tier 2
+262,MBA,Marketing,Communication,SEO,Project Management,,Marketing Specialist,22,USA,Master,Tier 3
+263,MBA,HR,Leadership,Payroll,HTML/CSS,,HR Manager,28,Canada,Master,Tier 3
+264,M.Tech,Chemical,Process Design,Simulation,Python,,Chemical Engineer,27,USA,Diploma,Tier 2
+265,M.Sc,Biotech,Research,PCR,HTML/CSS,,Biotech Researcher,32,UK,Master,Tier 2
+266,B.Com,Data Science,Tableau,PowerBI,Research,AWS,Data Analyst,23,India,Master,Tier 2
+267,MCA,Data Science,Spark,ETL,SQL,AWS,Data Engineer,32,Germany,Master,Tier 2
+268,B.Tech,Civil,Construction,Project Management,Python,,Civil Engineer,24,UK,Bachelor,Tier 2
+269,MBA,HR,Recruitment,Excel,HTML/CSS,,HR Manager,23,Germany,Bachelor,Tier 2
+270,M.Tech,Mechanical,CAD,SolidWorks,Communication,,Mechanical Engineer,29,Germany,Bachelor,Tier 2
+271,M.Tech,Security,Linux,Security,Leadership,,Security Analyst,22,Remote,Master,Tier 1
+272,B.Tech,Security,Linux,Incident Response,Leadership,CCNA,Security Analyst,29,Germany,Bachelor,Tier 2
+273,M.Tech,Civil,Surveying,AutoCAD,Leadership,,Civil Engineer,25,Germany,Bachelor,Tier 3
+274,B.Tech,Data Science,Hadoop,Airflow,Communication,,Data Engineer,22,India,Master,Tier 3
+275,BBA,Business,Communication,Sales,SQL,,Business Development Manager,26,Canada,Bachelor,Tier 3
+276,B.Tech,Mechanical,SolidWorks,MATLAB,Excel,,Mechanical Engineer,24,India,Bachelor,Tier 2
+277,BBA,Marketing,Analytics,Communication,HTML/CSS,Google Cloud,Marketing Specialist,32,Germany,Master,Tier 2
+278,MCA,Data Science,Data Analysis,Statistics,Leadership,Google Cloud,Data Scientist,24,Germany,Bachelor,Tier 1
+279,Ph.D,Data Science,Python,Data Analysis,Leadership,Google Cloud,Data Scientist,32,Remote,Diploma,Tier 2
+280,MCA,Computer Science,Cloud,Python,Research,Azure,Cloud Engineer,32,UK,Bachelor,Tier 2
+281,MCA,Data Science,Data Analysis,Pandas,Communication,,Data Scientist,36,UK,Master,Tier 3
+282,BBA,Sales,Excel,Leadership,Communication,,Sales Manager,22,Canada,Master,Tier 3
+283,B.Tech,Mechanical,Project Mgmt,Design,SQL,,Mechanical Engineer,35,India,Master,Tier 2
+284,BBA,Sales,Leadership,CRM,Communication,,Sales Manager,36,UK,Bachelor,Tier 1
+285,B.Tech,Electrical,PLC,MATLAB,Python,,Electrical Engineer,22,Canada,Bachelor,Tier 2
+286,M.Tech,Electrical,Proteus,PLC,HTML/CSS,,Electrical Engineer,23,Canada,Bachelor,Tier 1
+287,M.Tech,Data Science,SQL,ETL,Python,,Data Engineer,28,India,Diploma,Tier 2
+288,B.Tech,Design,Prototyping,UI/UX,Leadership,,UI/UX Designer,29,India,Master,Tier 3
+289,M.Tech,Management,Project Management,Risk Mgmt,HTML/CSS,Scrum,Project Manager,24,Australia,PhD,Tier 2
+290,M.Tech,Data Science,ETL,Airflow,Research,AWS,Data Engineer,37,Germany,Master,Tier 1
+291,MBA,Sales,Excel,CRM,Project Management,,Sales Manager,29,USA,Bachelor,Tier 1
+292,B.Tech,Electrical,Circuits,Design,Research,,Electrical Engineer,29,UK,Bachelor,Tier 3
+293,MBA,Sales,CRM,Leadership,Python,,Sales Manager,27,Australia,Master,Tier 3
+294,M.Sc,Biotech,Research,PCR,Excel,,Biotech Researcher,30,Remote,Bachelor,Tier 1
+295,B.Tech,Data Science,Spark,Airflow,Communication,,Data Engineer,34,Australia,Bachelor,Tier 1
+296,B.Tech,Mechanical,Design,MATLAB,Communication,,Mechanical Engineer,34,Germany,Bachelor,Tier 2
+297,M.Tech,Data Science,SQL,Pandas,Data Analysis,,Data Scientist,26,Germany,Diploma,Tier 3
+298,B.Tech,Business,SQL,Data Analysis,Data Analysis,,Business Analyst,24,Canada,PhD,Tier 3
+299,MA,Media,Communication,Content Strategy,Excel,,Content Writer,24,Australia,Bachelor,Tier 3
+300,B.Tech,Electrical,PLC,MATLAB,SQL,,Electrical Engineer,38,Canada,Master,Tier 3
+301,B.Sc,Biotech,Documentation,Biology,Excel,,Biotech Researcher,34,Germany,Bachelor,Tier 1
+302,MBA,Operations,Supply Chain,ERP,Leadership,,Operations Manager,27,India,Bachelor,Tier 1
+303,B.Tech,Civil,Surveying,Construction,Communication,,Civil Engineer,34,Germany,Master,Tier 2
+304,BBA,Marketing,SEO,Analytics,Leadership,,Marketing Specialist,27,UK,Master,Tier 2
+305,B.Tech,Mechanical,SolidWorks,MATLAB,Leadership,,Mechanical Engineer,31,UK,Diploma,Tier 3
+306,MBA,Operations,Analytics,Supply Chain,Leadership,,Operations Manager,27,Germany,Bachelor,Tier 3
+307,MBA,Operations,Leadership,Analytics,Research,,Operations Manager,29,Canada,Bachelor,Tier 3
+308,M.Tech,Security,Incident Response,Network,Communication,,Security Analyst,22,Germany,Bachelor,Tier 2
+309,M.Tech,Civil,Design,Surveying,Project Management,,Civil Engineer,32,UK,Bachelor,Tier 2
+310,MBA,Operations,Supply Chain,Excel,HTML/CSS,,Operations Manager,26,UK,PhD,Tier 2
+311,MBA,Business,Communication,Negotiation,Excel,,Business Development Manager,24,UK,Master,Tier 2
+312,B.Tech,Data Science,Spark,SQL,HTML/CSS,,Data Engineer,22,India,Bachelor,Tier 3
+313,Ph.D,Biotech,Biology,PCR,HTML/CSS,,Biotech Researcher,28,UK,Master,Tier 2
+314,B.Tech,Data Science,Python,Data Analysis,HTML/CSS,Google Cloud,Data Analyst,24,India,Bachelor,Tier 1
+315,B.Tech,Management,Scrum,Leadership,Research,PMP,Scrum Master,27,Australia,Bachelor,Tier 2
+316,B.Tech,Civil,Construction,AutoCAD,Data Analysis,,Civil Engineer,35,India,Master,Tier 3
+317,BBA,Sales,Strategy,Communication,Leadership,,Sales Manager,24,USA,Master,Tier 2
+318,B.Com,Data Science,PowerBI,Data Analysis,Leadership,,Data Analyst,31,UK,Master,Tier 3
+319,Ph.D,Data Science,Machine Learning,Python,Data Analysis,,Machine Learning Engineer,36,India,Diploma,Tier 3
+320,MBA,Business,UML,Data Analysis,Python,,Business Analyst,28,USA,Bachelor,Tier 2
+321,B.Tech,Electrical,PLC,Design,Data Analysis,,Electrical Engineer,25,Germany,Master,Tier 2
+322,M.Tech,Chemical,MATLAB,Chemistry,Data Analysis,,Chemical Engineer,24,UK,Bachelor,Tier 2
+323,B.Com,Marketing,SEO,Analytics,Communication,,Marketing Specialist,29,Australia,Master,Tier 2
+324,B.Tech,Chemical,Chemistry,Safety,Project Management,,Chemical Engineer,38,UK,Bachelor,Tier 3
+325,BBA,Sales,Excel,Strategy,HTML/CSS,,Sales Manager,32,Remote,Bachelor,Tier 1
+326,B.Tech,Electrical,Design,Circuits,Communication,,Electrical Engineer,35,UK,Bachelor,Tier 3
+327,M.Tech,Mechanical,,MATLAB,Research,,Mechanical Engineer,27,Germany,Master,Tier 2
+328,M.Tech,Chemical,Excel,Simulation,Python,,Chemical Engineer,27,India,Master,Tier 2
+329,B.Tech,Electrical,Power Systems,Design,Excel,,Electrical Engineer,37,USA,Bachelor,Tier 3
+330,M.Tech,Computer Science,Cloud,Docker,Excel,Google Cloud,Cloud Engineer,29,USA,PhD,Tier 3
+331,MBA,Sales,Negotiation,Communication,Excel,,Sales Manager,24,Canada,Bachelor,Tier 1
+332,B.Com,Data Science,Data Analysis,PowerBI,Communication,,Data Analyst,24,Australia,Bachelor,Tier 2
+333,B.Tech,Data Science,Tableau,PowerBI,Python,AWS,Data Analyst,25,India,Master,Tier 2
+334,M.Tech,Electrical,Power Systems,Design,Excel,,Electrical Engineer,21,Australia,Bachelor,Tier 2
+335,MBA,Business,Strategy,Excel,Leadership,,Business Development Manager,24,India,Master,Tier 2
+336,MBA,Marketing,Social Media,Marketing,Leadership,,Marketing Specialist,28,Remote,Bachelor,Tier 2
+337,BBA,Business,Sales,Negotiation,Python,,Business Development Manager,31,USA,Diploma,Tier 2
+338,B.Com,Marketing,Excel,SEO,Project Management,,Marketing Specialist,31,UK,Bachelor,Tier 1
+339,B.Tech,Mechanical,Project Mgmt,MATLAB,Project Management,,Mechanical Engineer,22,Remote,Bachelor,Tier 2
+340,MCA,Data Science,SQL,Data Analysis,Project Management,AWS,Data Scientist,28,Germany,PhD,Tier 2
+341,B.Tech,Operations,Leadership,Operations,Research,,Operations Manager,30,Remote,Master,Tier 2
+342,M.Sc,Biotech,Documentation,PCR,SQL,,Biotech Researcher,22,Remote,Master,Tier 1
+343,B.Tech,Operations,Excel,Supply Chain,Project Management,,Supply Chain Manager,28,Australia,Bachelor,Tier 2
+344,M.Tech,Management,Risk Mgmt,PMP Skills,Project Management,Scrum,Project Manager,,Australia,Master,Tier 3
+345,B.Tech,Operations,Supply Chain,Leadership,Excel,,Operations Manager,24,USA,Master,Tier 1
+346,B.Sc,Biotech,Biology,Lab Techniques,HTML/CSS,,Biotech Researcher,24,Germany,PhD,Tier 2
+347,B.Sc,Biotech,Lab Techniques,PCR,Research,,Biotech Researcher,25,,Master,Tier 3
+348,MBA,Business,Communication,Stakeholder Mgmt,Leadership,PMP,Business Analyst,25,Australia,Master,Tier 2
+349,M.Tech,Management,Project Management,PMP Skills,Communication,PMP,Project Manager,21,Australia,PhD,Tier 2
+350,B.Tech,Management,Scrum,Facilitation,Excel,Scrum,Scrum Master,35,Remote,Bachelor,Tier 3
+351,BBA,Marketing,Marketing,Excel,HTML/CSS,Google Cloud,Marketing Specialist,32,Australia,Bachelor,Tier 3
+352,Ph.D,Data Science,Pandas,Data Analysis,Communication,,Data Scientist,35,UK,Bachelor,Tier 2
+353,M.Tech,Data Science,Hadoop,Spark,Data Analysis,Google Cloud,Data Engineer,21,Germany,Bachelor,Tier 2
+354,Ph.D,Biotech,Data Analysis,Biology,HTML/CSS,,Biotech Researcher,33,Canada,Bachelor,Tier 2
+355,B.Tech,Chemical,Safety,Process Design,Python,,Chemical Engineer,31,Remote,Diploma,Tier 2
+356,MBA,Marketing,Social Media,Excel,Communication,Google Cloud,Marketing Specialist,33,India,Diploma,Tier 2
+357,B.Tech,Chemical,Safety,MATLAB,Research,,Chemical Engineer,33,Canada,Bachelor,Tier 1
+358,MCA,Data Science,SQL,Statistics,Project Management,Google Cloud,Data Scientist,30,USA,Master,Tier 3
+359,BBA,Sales,Negotiation,Leadership,SQL,,Sales Manager,30,Germany,Master,Tier 1
+360,BBA,Marketing,Communication,Analytics,HTML/CSS,,Marketing Specialist,26,India,Bachelor,Tier 1
+361,B.Tech,Chemical,Simulation,MATLAB,HTML/CSS,,Chemical Engineer,36,Germany,PhD,Tier 3
+362,B.Com,Marketing,Excel,Marketing,Python,Google Cloud,Marketing Specialist,25,Australia,Master,Tier 1
+363,B.Tech,Operations,Leadership,Operations,Research,,Operations Manager,33,Remote,Bachelor,Tier 3
+364,MBA,Sales,Strategy,Communication,Research,,Sales Manager,36,USA,PhD,Tier 2
+365,B.Tech,Data Science,Data Analysis,PowerBI,HTML/CSS,,Data Analyst,37,Canada,PhD,Tier 3
+366,BBA,Marketing,SEO,Analytics,Project Management,Google Cloud,Marketing Specialist,27,Australia,Bachelor,Tier 3
+367,M.Tech,Mechanical,MATLAB,Project Mgmt,Data Analysis,,Mechanical Engineer,90.43163871,Remote,Bachelor,Tier 2
+368,M.Tech,Mechanical,MATLAB,SolidWorks,Communication,,Mechanical Engineer,32,Germany,Bachelor,Tier 3
+369,BBA,Sales,Strategy,Leadership,Project Management,,Sales Manager,,India,Diploma,Tier 2
+370,B.Tech,Electrical,PLC,Power Systems,Research,,Electrical Engineer,27,UK,Bachelor,Tier 3
+371,M.Tech,Civil,Design,Excel,Data Analysis,,Civil Engineer,23,USA,Master,Tier 1
+372,B.Tech,Business,UML,Stakeholder Mgmt,HTML/CSS,,Business Analyst,24,UK,Bachelor,Tier 1
+373,M.Tech,Electrical,Power Systems,Circuits,Excel,,Electrical Engineer,22,UK,Bachelor,Tier 3
+374,B.Com,Business,UML,Excel,Data Analysis,,Business Analyst,34,USA,PhD,Tier 2
+375,MBA,Operations,Leadership,Operations,Python,,Operations Manager,29,Canada,Bachelor,Tier 1
+376,MBA,Sales,Strategy,Leadership,Project Management,,Sales Manager,21,Australia,Bachelor,Tier 2
+377,MBA,Finance,Financial Modeling,SQL,SQL,,Financial Analyst,34,Remote,Bachelor,Tier 2
+378,BBA,HR,Payroll,Communication,Python,,HR Manager,23,Australia,Diploma,Tier 2
+379,M.Sc,Biotech,Lab Techniques,PCR,Excel,,Biotech Researcher,30,Remote,Bachelor,Tier 2
+380,B.Tech,Computer Science,Docker,Cloud,Project Management,Azure,Cloud Engineer,37,Remote,PhD,Tier 3
+381,B.Tech,Civil,AutoCAD,Construction,Communication,,Civil Engineer,23,Germany,Master,Tier 1
+382,MBA,Marketing,SEO,Excel,Data Analysis,,Marketing Specialist,22,USA,Master,Tier 2
+383,Ph.D,Biotech,Research,Documentation,Data Analysis,,Biotech Researcher,25,India,Master,Tier 2
+384,B.Tech,Data Science,Hadoop,Airflow,Communication,,Data Engineer,24,Canada,Bachelor,Tier 3
+385,B.Tech,Civil,Surveying,Design,SQL,,Civil Engineer,26,Australia,Bachelor,Tier 3
+386,B.Tech,Civil,Surveying,Excel,Python,,Civil Engineer,24,USA,Master,Tier 3
+387,M.Tech,Mechanical,Design,Project Mgmt,Communication,,Mechanical Engineer,,Germany,Master,Tier 1
+388,B.Tech,Data Science,Airflow,Spark,Python,Google Cloud,Data Engineer,24,India,Bachelor,Tier 2
+389,MBA,Operations,Supply Chain,Leadership,Python,,Operations Manager,31,Remote,Bachelor,Tier 2
+390,B.Tech,Electrical,Networking,TCP/IP,Communication,CCNA,Network Engineer,27,India,Master,Tier 3
+391,BBA,HR,Labor Laws,Communication,Research,,HR Manager,25,Canada,Bachelor,Tier 2
+392,B.Tech,Civil,Surveying,AutoCAD,Project Management,,Civil Engineer,38,Remote,Bachelor,Tier 2
+393,M.Tech,Data Science,Python,SQL,Excel,,Data Engineer,29,Canada,Bachelor,Tier 1
+394,M.Tech,Data Science,SQL,Python,Communication,AWS,Data Engineer,31,USA,Bachelor,Tier 2
+395,B.Tech,Security,Linux,Network,Research,,Security Analyst,27,USA,Bachelor,Tier 2
+396,M.Tech,Electrical,Circuits,Proteus,Leadership,,Electrical Engineer,25,Australia,Bachelor,Tier 3
+397,BBA,Sales,Excel,Strategy,Project Management,,Sales Manager,23,USA,Bachelor,Tier 1
+398,MBA,Marketing,Marketing,Analytics,Python,,Marketing Specialist,36,Canada,Master,Tier 3
+399,MBA,HR,Communication,Leadership,Data Analysis,,HR Manager,,Canada,Master,Tier 1
+400,M.Sc,Data Science,Machine Learning,Statistics,Python,Google Cloud,Data Scientist,35,Germany,Bachelor,Tier 1
+401,B.Tech,Mechanical,Thermodynamics,MATLAB,SQL,,Mechanical Engineer,35,Remote,Master,Tier 3
+402,B.Tech,Security,Security,SIEM,Communication,CCNA,Security Analyst,,Canada,Master,Tier 2
+403,B.Com,Business,Data Analysis,UML,Leadership,PMP,Business Analyst,26,India,Bachelor,Tier 2
+404,MA,Media,Research,Content Strategy,Excel,,Content Writer,32,UK,Bachelor,Tier 2
+405,B.Tech,Civil,Project Management,Excel,Research,,Civil Engineer,31,Remote,Bachelor,Tier 2
+406,MBA,Business,Communication,Strategy,Leadership,,Business Development Manager,34,,Master,Tier 2
+407,MBA,Operations,Planning,Supply Chain,Communication,,Supply Chain Manager,39,USA,Bachelor,Tier 2
+408,M.Tech,Electrical,Proteus,Power Systems,HTML/CSS,,Electrical Engineer,34,Canada,Master,Tier 3
+409,MCA,Data Science,SQL,Airflow,Excel,,Data Engineer,26,Canada,Bachelor,Tier 1
+410,MBA,Management,Agile,Scrum,SQL,PMP,Scrum Master,22,Australia,Bachelor,Tier 1
+411,Ph.D,Data Science,Statistics,Data Analysis,Project Management,AWS,Data Scientist,28,India,Master,Tier 2
+412,M.Tech,Security,Linux,Python,Research,,Security Analyst,36,Germany,Bachelor,Tier 2
+413,M.Tech,Electrical,Networking,CCNA,Leadership,CCNA,Network Engineer,21,India,Bachelor,Tier 3
+414,MBA,Marketing,Marketing,Communication,Communication,,Marketing Specialist,31,Germany,Bachelor,Tier 2
+415,B.Tech,Operations,Analytics,Leadership,SQL,,Operations Manager,35,India,Bachelor,Tier 2
+416,M.Tech,Data Science,Pandas,Data Analysis,SQL,,Data Scientist,23,USA,Bachelor,Tier 2
+417,M.Tech,Data Science,Python,Data Analysis,Communication,,Data Scientist,29,Canada,Bachelor,Tier 3
+418,M.Sc,Data Science,Data Analysis,Python,Excel,AWS,Data Scientist,37,India,Master,Tier 2
+419,Ph.D,Data Science,Pandas,Data Analysis,Python,,Data Scientist,32,USA,PhD,Tier 3
+420,B.Com,Marketing,SEO,Analytics,Python,,Marketing Specialist,31,USA,Master,Tier 1
+421,M.Tech,Mechanical,Thermodynamics,MATLAB,Research,,Mechanical Engineer,34,Canada,Diploma,Tier 2
+422,MBA,Marketing,Excel,Analytics,Leadership,,Marketing Specialist,30,India,Master,Tier 2
+423,MBA,HR,Leadership,Excel,Data Analysis,,HR Manager,31,Canada,Master,Tier 1
+424,B.Sc,Biotech,Research,Lab Techniques,Communication,,Biotech Researcher,28,UK,Bachelor,Tier 2
+425,M.Tech,Chemical,MATLAB,Simulation,Excel,,Chemical Engineer,27,Australia,Bachelor,Tier 1
+426,B.Tech,Data Science,ETL,Hadoop,HTML/CSS,,Data Engineer,28,Canada,Bachelor,Tier 2
+427,B.Tech,Mechanical,Project Mgmt,MATLAB,Excel,,Mechanical Engineer,29,Germany,Bachelor,Tier 3
+428,BA,Media,SEO,Content Strategy,Project Management,,Content Writer,32,Remote,Master,Tier 2
+429,MBA,Design,HTML/CSS,UI/UX,Leadership,,UI/UX Designer,30,UK,Bachelor,Tier 2
+430,M.Tech,Data Science,PyTorch,Machine Learning,Research,,Machine Learning Engineer,30,India,Bachelor,Tier 2
+431,B.Tech,Security,Incident Response,Python,Leadership,,Security Analyst,40,Australia,Bachelor,Tier 1
+432,M.Tech,Civil,Surveying,Design,Excel,,Civil Engineer,32,Australia,PhD,Tier 3
+433,B.Tech,Electrical,MATLAB,Design,Python,,Electrical Engineer,32,Australia,Master,Tier 2
+434,B.Tech,Civil,Project Management,Excel,Python,,Civil Engineer,,USA,Bachelor,Tier 2
+435,B.Tech,Electrical,Power Systems,MATLAB,Research,,Electrical Engineer,33,Australia,Bachelor,Tier 3
+436,MBA,Business,Strategy,Excel,SQL,,Business Development Manager,29,India,Diploma,Tier 3
+437,MBA,Business,Strategy,Excel,HTML/CSS,,Business Development Manager,36,India,Diploma,Tier 2
+438,MBA,Business,Communication,Negotiation,HTML/CSS,,Business Development Manager,22,UK,Master,Tier 1
+439,B.Tech,Computer Science,Cloud,Azure,Communication,Google Cloud,Cloud Engineer,24,Canada,Master,Tier 1
+440,MCA,Data Science,Spark,Python,Excel,AWS,Data Engineer,33,Canada,Bachelor,Tier 1
+441,B.Tech,Operations,Operations,ERP,Data Analysis,,Operations Manager,30,Germany,Bachelor,Tier 2
+442,M.Tech,Chemical,Simulation,Chemistry,Research,,Chemical Engineer,33,USA,Bachelor,Tier 3
+443,BBA,Business,Communication,CRM,HTML/CSS,,Business Development Manager,33,USA,Bachelor,Tier 2
+444,B.Com,Business,SQL,UML,Project Management,PMP,Business Analyst,,India,Bachelor,Tier 1
+445,BBA,Business,Excel,Strategy,HTML/CSS,,Business Development Manager,23,India,Bachelor,Tier 2
+446,BA,Media,Content Strategy,Writing,Data Analysis,,Content Writer,34,USA,Master,Tier 1
+447,M.Tech,Chemical,Simulation,Process Design,SQL,,Chemical Engineer,28,Australia,Master,Tier 3
+448,M.Tech,Data Science,Hadoop,Spark,HTML/CSS,,Data Engineer,24,Germany,Master,Tier 1
+449,B.Tech,Chemical,Simulation,MATLAB,Leadership,,Chemical Engineer,32,India,Bachelor,Tier 2
+450,B.Tech,Electrical,Design,Proteus,Leadership,,Electrical Engineer,,Remote,Bachelor,Tier 3
+451,MBA,Marketing,SEO,Social Media,Leadership,,Marketing Specialist,39,Canada,Bachelor,Tier 3
+452,Ph.D,Biotech,Data Analysis,Lab Techniques,Leadership,,Biotech Researcher,24,Canada,Bachelor,Tier 2
+453,M.Tech,Electrical,Proteus,Circuits,Excel,,Electrical Engineer,27,UK,Bachelor,Tier 2
+454,MBA,Business,Negotiation,Strategy,Excel,,Business Development Manager,36,Canada,Master,Tier 2
+455,M.Tech,Data Science,Spark,Hadoop,Leadership,AWS,Data Engineer,29,Canada,Master,Tier 1
+456,MBA,Design,UI/UX,Prototyping,Data Analysis,,UI/UX Designer,31,Remote,Diploma,Tier 3
+457,M.Tech,Electrical,Networking,Routers,Excel,CCNA,Network Engineer,23,Canada,Master,Tier 3
+458,MCA,Data Science,Python,Hadoop,SQL,,Data Engineer,24,India,PhD,Tier 3
+459,MBA,Business,SQL,Excel,Project Management,PMP,Business Analyst,22,Australia,Bachelor,Tier 2
+460,B.Tech,Data Science,Spark,SQL,Excel,Google Cloud,Data Engineer,29,Canada,Bachelor,Tier 1
+461,B.Tech,Security,Security,Incident Response,Research,CCNA,Security Analyst,35,USA,Bachelor,Tier 2
+462,MBA,Marketing,Marketing,Analytics,SQL,Google Cloud,Marketing Specialist,30,Germany,Bachelor,Tier 2
+463,BBA,HR,Leadership,Communication,Research,,HR Manager,23,Canada,Diploma,Tier 1
+464,B.Tech,Chemical,Process Design,Simulation,Project Management,,Chemical Engineer,30,Canada,Bachelor,Tier 2
+465,M.Sc,Biotech,PCR,Data Analysis,SQL,,Biotech Researcher,34,Remote,Bachelor,Tier 2
+466,M.Tech,Chemical,Excel,Simulation,Communication,,Chemical Engineer,29,USA,Bachelor,Tier 1
+467,BBA,Marketing,Marketing,Communication,Python,,Marketing Specialist,27,India,Bachelor,Tier 2
+468,B.Tech,Design,Prototyping,UI/UX,Data Analysis,,UI/UX Designer,22,Australia,Bachelor,Tier 2
+469,B.Des,Design,Graphic Design,UI/UX,Research,,UI/UX Designer,27,UK,Master,Tier 3
+470,B.Tech,Operations,ERP,Supply Chain,Communication,,Supply Chain Manager,27,Australia,Bachelor,Tier 3
+471,B.Com,Marketing,Excel,SEO,Research,Google Cloud,Marketing Specialist,29,Remote,Master,Tier 1
+472,MBA,Business,SQL,Excel,HTML/CSS,PMP,Business Analyst,24,Germany,Bachelor,Tier 2
+473,B.Tech,Data Science,PowerBI,Data Analysis,Project Management,,Data Analyst,37,Australia,PhD,Tier 2
+474,B.Tech,Data Science,SQL,Spark,Project Management,Google Cloud,Data Engineer,24,Canada,PhD,Tier 2
+475,MBA,Data Science,Tableau,SQL,Leadership,,Data Analyst,33,Remote,Bachelor,Tier 1
+476,Ph.D,Biotech,PCR,Biology,Excel,,Biotech Researcher,31,Canada,PhD,Tier 1
+477,MBA,Management,Project Management,Risk Mgmt,HTML/CSS,PMP,Project Manager,32,UK,Bachelor,Tier 2
+478,B.Tech,Operations,Supply Chain,Excel,Communication,,Operations Manager,23,Australia,Bachelor,Tier 3
+479,B.Tech,Operations,Analytics,ERP,Project Management,,Operations Manager,30,USA,Bachelor,Tier 2
+480,B.Com,Data Science,Excel,Python,Project Management,,Data Analyst,27,Canada,Master,Tier 2
+481,MBA,Business,UML,Data Analysis,Communication,PMP,Business Analyst,26,Remote,Bachelor,Tier 3
+482,MBA,Marketing,Analytics,Marketing,Python,,Marketing Specialist,27,Remote,Bachelor,Tier 1
+483,B.Tech,Civil,AutoCAD,Surveying,Excel,,Civil Engineer,26,USA,Diploma,Tier 3
+484,BBA,Business,CRM,Strategy,Project Management,,Business Development Manager,27,India,Bachelor,Tier 3
+485,B.Com,Data Science,Data Analysis,Python,Leadership,,Data Analyst,37,Germany,Master,Tier 3
+486,MBA,Sales,Communication,Leadership,Research,,Sales Manager,30,Germany,Master,Tier 2
+487,BBA,,SEO,Social Media,Data Analysis,,Marketing Specialist,25,India,Bachelor,Tier 3
+488,MBA,Business,SQL,Communication,Project Management,PMP,Business Analyst,22,Canada,Bachelor,Tier 3
+489,B.Com,Marketing,Analytics,Excel,Python,,Marketing Specialist,25,Germany,Bachelor,Tier 2
+490,MBA,Operations,Supply Chain,Leadership,Project Management,,Operations Manager,26,Germany,Bachelor,Tier 1
+491,B.Com,Data Science,Tableau,Python,Data Analysis,Google Cloud,Data Analyst,37,Australia,Master,Tier 3
+492,MBA,Business,Excel,UML,Project Management,,Business Analyst,24,UK,Master,Tier 3
+493,B.Com,,SEO,Marketing,Leadership,,Marketing Specialist,24,India,Bachelor,Tier 2
+494,B.Tech,Business,Stakeholder Mgmt,Communication,Python,,Business Analyst,35,Remote,Master,Tier 1
+495,B.Tech,Security,Network,Python,Research,,Security Analyst,24,Remote,Master,Tier 2
+496,B.Tech,Operations,Supply Chain,Excel,Project Management,,Supply Chain Manager,24,India,Master,Tier 2
+497,B.Com,Finance,Financial Modeling,Excel,Communication,,Financial Analyst,35,Remote,Bachelor,Tier 3
+498,B.Tech,Operations,Analytics,Leadership,SQL,,Operations Manager,33,Remote,Master,Tier 1
+499,MBA,Sales,Negotiation,CRM,Communication,,Sales Manager,23,Australia,Bachelor,Tier 1
+500,B.Tech,Design,HTML/CSS,UI/UX,Research,,UI/UX Designer,22,India,Bachelor,Tier 1
+501,BBA,Business,Negotiation,Strategy,SQL,,Business Development Manager,30,Australia,Bachelor,Tier 3
+502,B.Sc,Biotech,PCR,Biology,Data Analysis,,Biotech Researcher,24,UK,Bachelor,Tier 2
+503,MBA,HR,Leadership,Payroll,Excel,,HR Manager,25,Remote,Bachelor,Tier 2
+504,B.Tech,Data Science,Python,Airflow,Communication,,Data Engineer,23,Australia,Master,Tier 2
+505,B.Com,Business,SQL,UML,SQL,,Business Analyst,25,Australia,Master,Tier 3
+506,B.Tech,Civil,Surveying,AutoCAD,Data Analysis,,Civil Engineer,31,Canada,Master,Tier 2
+507,B.Tech,Security,Linux,Network,Excel,,Security Analyst,35,Remote,Bachelor,Tier 2
+508,MA,Media,Communication,Content Strategy,Excel,,Content Writer,33,India,Bachelor,Tier 2
+509,MCA,Data Science,Data Analysis,SQL,Python,Google Cloud,Data Scientist,24,UK,Bachelor,Tier 2
+510,B.Sc,Biotech,Lab Techniques,PCR,Python,,Biotech Researcher,21,Australia,Bachelor,Tier 2
+511,MCA,Data Science,Pandas,Python,Data Analysis,AWS,Data Scientist,35,Remote,Diploma,Tier 1
+512,B.Tech,Civil,Construction,Design,Data Analysis,,Civil Engineer,28,Germany,Master,Tier 2
+513,B.Com,Data Science,SQL,Data Analysis,Project Management,,Data Analyst,33,Remote,Master,Tier 3
+514,M.Tech,Data Science,Statistics,Machine Learning,Excel,,Data Scientist,25,UK,Bachelor,Tier 2
+515,B.Tech,Chemical,Excel,Process Design,Research,,Chemical Engineer,22,Canada,Master,Tier 3
+516,B.Tech,Civil,Excel,Construction,Leadership,,Civil Engineer,30,Australia,Diploma,Tier 2
+517,MBA,Design,Figma,UI/UX,Leadership,,UI/UX Designer,25,Germany,Bachelor,Tier 3
+518,B.Tech,Security,Python,Incident Response,SQL,,Security Analyst,24,UK,PhD,Tier 3
+519,BBA,Business,Excel,Negotiation,SQL,,Business Development Manager,30,USA,Master,Tier 1
+520,M.Tech,Civil,Design,AutoCAD,SQL,,Civil Engineer,24,Australia,Diploma,Tier 2
+521,MBA,Management,Excel,Project Management,Python,Scrum,Project Manager,22,UK,PhD,Tier 2
+522,MBA,Business,UML,SQL,HTML/CSS,,Business Analyst,24,Germany,Master,Tier 1
+523,B.Tech,Mechanical,Project Mgmt,Design,Data Analysis,,Mechanical Engineer,29,USA,Bachelor,Tier 2
+524,B.Tech,Data Science,Excel,PowerBI,Data Analysis,AWS,Data Analyst,26,India,PhD,Tier 2
+525,MBA,Data Science,SQL,Data Analysis,Research,AWS,Data Analyst,24,Canada,Master,Tier 2
+526,M.Tech,Civil,Construction,Surveying,Python,,Civil Engineer,25,India,Diploma,Tier 2
+527,MCA,Data Science,SQL,Hadoop,Project Management,Google Cloud,Data Engineer,24,Germany,Bachelor,Tier 1
+528,MCA,Data Science,Pandas,Python,Communication,,Data Scientist,35,Canada,Bachelor,Tier 1
+529,M.Tech,Data Science,Python,Airflow,SQL,AWS,Data Engineer,26,Australia,Master,Tier 3
+530,B.Tech,Civil,AutoCAD,Design,SQL,,Civil Engineer,32,Germany,Master,Tier 1
+531,B.Com,Business,Communication,UML,SQL,,Business Analyst,26,Canada,PhD,Tier 2
+532,MCA,Computer Science,Cloud,Docker,Python,Azure,Cloud Engineer,36,Canada,Bachelor,Tier 2
+533,M.Tech,Electrical,MATLAB,Circuits,Python,,Electrical Engineer,30,Canada,Master,Tier 2
+534,B.Com,Data Science,Tableau,Excel,Python,AWS,Data Analyst,28,UK,Master,Tier 2
+535,M.Tech,Data Science,Python,Machine Learning,Communication,,Machine Learning Engineer,37,UK,Master,Tier 2
+536,M.Tech,Electrical,Design,Proteus,SQL,,Electrical Engineer,30,Remote,PhD,Tier 3
+537,B.Com,Marketing,Excel,Analytics,,Google Cloud,Marketing Specialist,27,India,Bachelor,Tier 3
+538,Ph.D,Biotech,Biology,Research,Communication,,Biotech Researcher,39,Canada,PhD,Tier 2
+539,B.Tech,Chemical,MATLAB,Chemistry,Leadership,,Chemical Engineer,26,Germany,PhD,Tier 1
+540,B.Tech,Operations,ERP,Excel,Project Management,,Operations Manager,32,Canada,Diploma,Tier 3
+541,B.Com,Marketing,Excel,SEO,SQL,Google Cloud,Marketing Specialist,27,Australia,Bachelor,Tier 2
+542,MBA,Operations,Supply Chain,Leadership,HTML/CSS,,Operations Manager,37,Australia,Bachelor,Tier 2
+543,Ph.D,Data Science,Data Analysis,Pandas,Project Management,Google Cloud,Data Scientist,34,UK,Diploma,Tier 2
+544,B.Com,Data Science,Excel,SQL,Leadership,,Data Analyst,40,Germany,Master,Tier 2
+545,MBA,Business,Negotiation,Excel,Project Management,,Business Development Manager,39,Australia,Bachelor,Tier 2
+546,MBA,Operations,Analytics,ERP,HTML/CSS,,Operations Manager,22,Germany,Bachelor,Tier 2
+547,MBA,Business,Communication,SQL,Project Management,,Business Analyst,30,Australia,Master,Tier 2
+548,B.Tech,Mechanical,CAD,Design,Project Management,,Mechanical Engineer,21,Canada,Master,Tier 3
+549,MCA,Data Science,Statistics,SQL,Leadership,AWS,Data Scientist,36,Australia,Master,Tier 2
+550,M.Tech,Mechanical,Design,Thermodynamics,Communication,,Mechanical Engineer,33,USA,Master,Tier 2
+551,MBA,Sales,CRM,Excel,Project Management,,Sales Manager,25,Australia,PhD,Tier 1
+552,B.Tech,Security,Security,Linux,Research,,Security Analyst,27,Germany,PhD,Tier 2
+553,B.Tech,Electrical,Switches,Networking,Communication,CCNA,Network Engineer,38,Australia,Master,Tier 2
+554,M.Sc,Data Science,Data Analysis,SQL,Communication,,Data Scientist,24,UK,Master,Tier 2
+555,MCA,Data Science,SQL,Machine Learning,Research,,Data Scientist,26,India,Diploma,Tier 2
+556,B.Tech,Chemical,Process Design,Chemistry,Communication,,Chemical Engineer,21,Australia,Bachelor,Tier 1
+557,B.Tech,Chemical,Safety,Chemistry,Research,,Chemical Engineer,32,Canada,Diploma,Tier 3
+558,M.Tech,Mechanical,MATLAB,CAD,Leadership,,Mechanical Engineer,24,Canada,Master,Tier 2
+559,M.Tech,Data Science,SQL,Machine Learning,Research,Google Cloud,Data Scientist,32,Canada,PhD,Tier 3
+560,MBA,Sales,Excel,Communication,Research,,Sales Manager,24,India,Bachelor,Tier 2
+561,MBA,Marketing,Excel,Communication,Research,,Marketing Specialist,25,India,Master,Tier 2
+562,B.Tech,Data Science,Python,Data Analysis,Excel,Google Cloud,,24,Canada,Diploma,Tier 3
+563,M.Tech,Data Science,Python,ETL,Project Management,AWS,Data Engineer,23,USA,Master,Tier 3
+564,M.Tech,Data Science,TensorFlow,Machine Learning,Excel,Google Cloud,Machine Learning Engineer,22,Germany,Bachelor,Tier 2
+565,B.Tech,Electrical,Networking,Switches,Communication,CCNA,Network Engineer,23,Germany,Bachelor,Tier 3
+566,B.Tech,Data Science,Tableau,PowerBI,Leadership,AWS,Data Analyst,32,India,PhD,Tier 2
+567,M.Tech,Mechanical,Design,Thermodynamics,Python,,Mechanical Engineer,25,Remote,PhD,Tier 2
+568,MBA,Management,Risk Mgmt,Project Management,HTML/CSS,PMP,Project Manager,25,USA,Bachelor,Tier 1
+569,Ph.D,Data Science,Data Analysis,SQL,Excel,,Data Scientist,29,Germany,Bachelor,Tier 2
+570,B.Tech,Operations,Leadership,Excel,Data Analysis,,Operations Manager,27,Australia,Bachelor,Tier 2
+571,B.Tech,Operations,Supply Chain,Analytics,SQL,,Supply Chain Manager,34,USA,PhD,Tier 2
+572,MBA,Business,Communication,Excel,Leadership,PMP,Business Analyst,35,USA,Bachelor,Tier 3
+573,B.Com,Business,Excel,Stakeholder Mgmt,Communication,PMP,Business Analyst,27,India,PhD,Tier 1
+574,Ph.D,Data Science,TensorFlow,Machine Learning,Communication,,Machine Learning Engineer,24,Canada,Bachelor,Tier 3
+575,BBA,HR,Labor Laws,Leadership,Python,,HR Manager,37,Canada,Bachelor,Tier 1
+576,MBA,Data Science,Tableau,Python,Data Analysis,AWS,Data Analyst,30,Remote,Bachelor,Tier 3
+577,MCA,Data Science,Pandas,Data Analysis,Leadership,Google Cloud,Data Scientist,25,Canada,Bachelor,Tier 3
+578,BBA,Marketing,SEO,Analytics,Communication,Google Cloud,Marketing Specialist,,Canada,Bachelor,Tier 2
+579,B.Tech,Business,Data Analysis,Excel,Research,,Business Analyst,28,UK,Bachelor,Tier 2
+580,B.Com,Business,UML,Excel,SQL,PMP,Business Analyst,25,Canada,PhD,Tier 3
+581,BBA,Marketing,Analytics,Social Media,Leadership,Google Cloud,Marketing Specialist,25,Remote,Bachelor,Tier 3
+582,MCA,Data Science,Python,Pandas,Data Analysis,Google Cloud,Data Scientist,26,Canada,Master,Tier 2
+583,MCA,Computer Science,Python,Cloud,HTML/CSS,Azure,Cloud Engineer,21,Germany,Master,Tier 2
+584,B.Tech,Electrical,Design,Power Systems,Communication,,Electrical Engineer,148.4146353,Germany,Bachelor,Tier 3
+585,M.Tech,Data Science,Python,Statistics,SQL,AWS,Data Scientist,24,USA,Bachelor,Tier 2
+586,B.Tech,Chemical,Chemistry,Safety,Python,,Chemical Engineer,22,Germany,Master,Tier 1
+587,B.Com,Finance,Accounting,Financial Modeling,Research,CFA,Financial Analyst,37,Australia,Bachelor,Tier 3
+588,M.Tech,Security,SIEM,Python,SQL,,Security Analyst,36,Germany,Master,Tier 1
+589,MBA,Business,UML,SQL,Excel,,Business Analyst,25,Canada,Master,Tier 3
+590,B.Tech,Operations,Leadership,Supply Chain,HTML/CSS,,Operations Manager,25,Australia,Bachelor,Tier 1
+591,Ph.D,Biotech,Lab Techniques,Biology,HTML/CSS,,Biotech Researcher,24,Canada,Master,Tier 2
+592,MBA,HR,Labor Laws,Payroll,Research,,HR Manager,29,Canada,Bachelor,Tier 2
+593,BBA,HR,Leadership,Labor Laws,Python,,HR Manager,27,UK,Bachelor,Tier 2
+594,MBA,Management,JIRA,Scrum,Python,Scrum,Scrum Master,32,Canada,Bachelor,Tier 2
+595,M.Tech,Electrical,Networking,Linux,Research,CCNA,Network Engineer,23,Germany,Diploma,Tier 2
+596,MBA,HR,Recruitment,Leadership,Project Management,,HR Manager,27,India,Bachelor,Tier 2
+597,M.Tech,Security,Python,Incident Response,Data Analysis,CCNA,Security Analyst,26,USA,Master,Tier 2
+598,Ph.D,Biotech,Lab Techniques,Documentation,SQL,,Biotech Researcher,23,USA,Diploma,Tier 3
+599,B.Tech,Civil,Project Management,Surveying,HTML/CSS,,Civil Engineer,32,Australia,Bachelor,Tier 2
+600,M.Tech,Chemical,Excel,Simulation,Research,,Chemical Engineer,33,Canada,Master,Tier 2
+601,B.Sc,Biotech,PCR,Lab Techniques,Data Analysis,,Biotech Researcher,27,Remote,Bachelor,Tier 2
+602,BBA,Business,Strategy,Negotiation,Excel,,Business Development Manager,25,Australia,Bachelor,Tier 1
+603,M.Tech,Management,PMP Skills,Project Management,Python,Scrum,Project Manager,33,Canada,PhD,Tier 2
+604,B.Tech,Security,Linux,Network,Research,,Security Analyst,22,Germany,PhD,Tier 3
+605,M.Tech,Electrical,Proteus,Power Systems,HTML/CSS,,Electrical Engineer,30,Germany,Master,Tier 3
+606,M.Tech,Mechanical,Thermodynamics,SolidWorks,Project Management,,Mechanical Engineer,29,Canada,Master,Tier 3
+607,MBA,Business,Strategy,Sales,Research,,Business Development Manager,33,India,Bachelor,Tier 2
+608,MA,Media,Writing,Content Strategy,Project Management,,Content Writer,26,UK,Bachelor,Tier 3
+609,MBA,Sales,Leadership,Negotiation,SQL,,Sales Manager,32,Germany,Bachelor,Tier 2
+610,B.Tech,Civil,Design,Excel,Python,,Civil Engineer,38,Germany,Bachelor,Tier 2
+611,M.Sc,Data Science,Machine Learning,PyTorch,Communication,,Machine Learning Engineer,23,USA,Bachelor,Tier 3
+612,BBA,Marketing,Social Media,SEO,Excel,,Marketing Specialist,32,Canada,Master,Tier 2
+613,MBA,Sales,CRM,Leadership,Excel,,Sales Manager,37,Germany,Master,Tier 2
+614,M.Tech,Electrical,Networking,CCNA,Data Analysis,CCNA,Network Engineer,39,Remote,Bachelor,Tier 2
+615,B.Tech,Civil,Design,Construction,Data Analysis,,Civil Engineer,23,USA,Bachelor,Tier 1
+616,M.Sc,Data Science,Python,SQL,Leadership,AWS,Data Scientist,39,USA,Bachelor,Tier 1
+617,M.Tech,Chemical,Simulation,,Python,,Chemical Engineer,26,Remote,Diploma,Tier 3
+618,B.Tech,Electrical,PLC,Circuits,Leadership,,Electrical Engineer,34,UK,PhD,Tier 1
+619,M.Tech,Chemical,Excel,Chemistry,Project Management,,Chemical Engineer,28,Australia,Bachelor,Tier 3
+620,MBA,HR,Labor Laws,Leadership,HTML/CSS,,HR Manager,23,USA,Master,Tier 1
+621,M.Tech,Computer Science,Terraform,Cloud,Research,Google Cloud,Cloud Engineer,28,USA,Bachelor,Tier 3
+622,MCA,Data Science,Statistics,SQL,Research,,Data Scientist,38,Remote,Master,Tier 1
+623,B.Com,Business,SQL,Excel,Project Management,,Business Analyst,27,USA,Master,Tier 1
+624,B.Com,Finance,Financial Modeling,PowerBI,Communication,,Financial Analyst,31,USA,Master,Tier 3
+625,B.Tech,Civil,AutoCAD,Construction,Project Management,,Civil Engineer,32,Canada,Diploma,Tier 3
+626,BBA,HR,Recruitment,Labor Laws,Python,,HR Manager,23,,Diploma,Tier 2
+627,B.Tech,Mechanical,Thermodynamics,CAD,Leadership,,Mechanical Engineer,25,India,Bachelor,Tier 2
+628,BBA,Sales,CRM,Excel,Data Analysis,,Sales Manager,32,USA,Bachelor,Tier 2
+629,B.Tech,Operations,Supply Chain,Planning,Project Management,,Supply Chain Manager,38,UK,Bachelor,Tier 3
+630,MBA,HR,Payroll,Leadership,HTML/CSS,,HR Manager,27,USA,Diploma,Tier 3
+631,M.Tech,Data Science,ML Ops,Machine Learning,Research,,Machine Learning Engineer,29,Canada,Master,Tier 2
+632,MCA,Data Science,ETL,SQL,Data Analysis,,Data Engineer,30,Australia,Bachelor,Tier 3
+633,B.Tech,Design,UI/UX,Prototyping,Leadership,,UI/UX Designer,31,UK,Bachelor,Tier 2
+634,B.Tech,Mechanical,Thermodynamics,SolidWorks,Communication,,Mechanical Engineer,38,India,PhD,Tier 2
+635,B.Tech,Civil,Excel,AutoCAD,HTML/CSS,,Civil Engineer,28,UK,Master,Tier 1
+636,MBA,HR,Payroll,Leadership,Excel,,HR Manager,27,Remote,Bachelor,Tier 2
+637,M.Tech,Mechanical,SolidWorks,MATLAB,Communication,,Mechanical Engineer,33,UK,Master,Tier 2
+638,B.Com,Finance,Financial Modeling,Excel,Project Management,,Financial Analyst,33,Remote,Bachelor,Tier 2
+639,MBA,Management,Leadership,Project Management,Excel,Scrum,Project Manager,22,Canada,Master,Tier 3
+640,B.Tech,Electrical,Networking,Switches,Research,CCNA,Network Engineer,30,Germany,Bachelor,Tier 3
+641,MBA,HR,Labor Laws,Recruitment,Python,,HR Manager,40,India,Bachelor,Tier 2
+642,M.Tech,Electrical,Circuits,MATLAB,Leadership,,Electrical Engineer,23,Germany,Diploma,Tier 2
+643,B.Tech,Business,UML,Stakeholder Mgmt,Project Management,,Business Analyst,32,UK,Diploma,Tier 2
+644,M.Tech,Electrical,Circuits,Design,SQL,,Electrical Engineer,28,Canada,Diploma,Tier 2
+645,B.Tech,Mechanical,CAD,Thermodynamics,Project Management,,Mechanical Engineer,24,Australia,Master,Tier 2
+646,B.Com,Data Science,Data Analysis,Excel,SQL,AWS,Data Analyst,31,Australia,Master,Tier 3
+647,MBA,,PMP Skills,Risk Mgmt,Project Management,PMP,Project Manager,26,UK,Bachelor,Tier 2
+648,M.Tech,Mechanical,Thermodynamics,SolidWorks,Project Management,,Mechanical Engineer,33,Remote,Bachelor,Tier 2
+649,MBA,Business,Data Analysis,Excel,Python,PMP,Business Analyst,38,Remote,Bachelor,Tier 3
+650,BBA,Sales,Excel,CRM,Research,,Sales Manager,30,USA,Master,Tier 3
+651,M.Tech,Chemical,Simulation,Process Design,Research,,Chemical Engineer,32,Australia,Bachelor,Tier 2
+652,B.Sc,Biotech,PCR,Documentation,Python,,Biotech Researcher,33,USA,Bachelor,Tier 3
+653,B.Tech,Mechanical,Thermodynamics,Project Mgmt,Research,,Mechanical Engineer,31,Germany,Bachelor,Tier 3
+654,B.Sc,Data Science,Tableau,SQL,Research,Google Cloud,Data Analyst,27,UK,Master,Tier 2
+655,BBA,Business,Excel,Negotiation,HTML/CSS,,Business Development Manager,35,UK,Master,Tier 3
+656,B.Tech,Operations,Analytics,ERP,Excel,,Operations Manager,24,India,Bachelor,Tier 2
+657,B.Des,Design,UI/UX,Graphic Design,Leadership,,UI/UX Designer,32,India,Bachelor,Tier 1
+658,B.Sc,Biotech,Research,Documentation,Data Analysis,,Biotech Researcher,31,Remote,Bachelor,Tier 2
+659,BBA,HR,Labor Laws,Leadership,Python,,HR Manager,36,UK,Master,Tier 1
+660,M.Tech,Security,Incident Response,Linux,Communication,,Security Analyst,25,Germany,Master,Tier 3
+661,M.Tech,Mechanical,Project Mgmt,Design,Research,,Mechanical Engineer,25,India,Master,Tier 2
+662,M.Sc,Data Science,Data Analysis,Machine Learning,Leadership,,Data Scientist,,Australia,PhD,Tier 2
+663,BBA,,Excel,Communication,Excel,,Sales Manager,33,Australia,Diploma,Tier 1
+664,B.Tech,Electrical,Power Systems,MATLAB,Communication,,Electrical Engineer,29,Canada,Master,Tier 3
+665,MBA,Management,Project Management,PMP Skills,Excel,PMP,Project Manager,33,Germany,Master,Tier 1
+666,M.Tech,Electrical,Circuits,Design,Project Management,,Electrical Engineer,28,Remote,Bachelor,Tier 1
+667,B.Tech,Mechanical,CAD,Design,Communication,,Mechanical Engineer,25,Germany,Bachelor,Tier 3
+668,M.Tech,Chemical,Safety,Simulation,Research,,Chemical Engineer,25,Germany,Master,Tier 3
+669,MBA,Marketing,Communication,Marketing,HTML/CSS,,Marketing Specialist,27,Remote,Bachelor,Tier 2
+670,BBA,Business,Strategy,Sales,Data Analysis,,Business Development Manager,26,India,Bachelor,Tier 1
+671,M.Sc,Biotech,Data Analysis,Biology,Project Management,,Biotech Researcher,37,UK,Bachelor,Tier 3
+672,BBA,Marketing,Marketing,Communication,Python,,Marketing Specialist,25,USA,Bachelor,Tier 2
+673,M.Tech,Electrical,Switches,Networking,SQL,CCNA,Network Engineer,26,Remote,PhD,Tier 2
+674,M.Tech,Electrical,Networking,Routers,Leadership,CCNA,Network Engineer,33,UK,Bachelor,Tier 1
+675,M.Tech,Electrical,Power Systems,MATLAB,Leadership,,Electrical Engineer,40,USA,Bachelor,Tier 3
+676,BBA,Sales,Leadership,Strategy,Project Management,,Sales Manager,24,UK,Bachelor,Tier 2
+677,BBA,Business,Excel,Communication,HTML/CSS,,Business Development Manager,25,India,Bachelor,Tier 3
+678,M.Tech,Computer Science,Cloud,Azure,Python,AWS,Cloud Engineer,23,UK,Diploma,Tier 3
+679,M.Tech,Computer Science,Docker,Cloud,Research,Google Cloud,Cloud Engineer,24,Canada,Master,Tier 1
+680,B.Tech,Security,Security,Linux,Python,CCNA,Security Analyst,23,Remote,Bachelor,Tier 1
+681,M.Sc,Data Science,SQL,Data Analysis,Research,,Data Scientist,32,Canada,PhD,Tier 1
+682,B.Tech,Security,Security,SIEM,Leadership,CCNA,Security Analyst,,India,Diploma,Tier 3
+683,MBA,Sales,Excel,CRM,Communication,,Sales Manager,34,USA,Bachelor,Tier 3
+684,MBA,Operations,Supply Chain,Excel,Data Analysis,,Supply Chain Manager,22,Canada,Bachelor,Tier 2
+685,B.Com,Data Science,Excel,Tableau,SQL,,Data Analyst,30,Canada,Diploma,Tier 2
+686,B.Des,Design,HTML/CSS,UI/UX,Excel,,UI/UX Designer,27,Australia,Bachelor,Tier 3
+687,MBA,Operations,Excel,Supply Chain,Communication,,Operations Manager,27,Canada,Bachelor,Tier 2
+688,B.Tech,Security,SIEM,Incident Response,Project Management,,Security Analyst,31,India,Bachelor,Tier 1
+689,MBA,Design,UI/UX,Figma,SQL,,UI/UX Designer,22,Germany,Master,Tier 2
+690,B.Tech,Business,Excel,Data Analysis,Project Management,,Business Analyst,32,USA,Bachelor,Tier 1
+691,MBA,Operations,ERP,Leadership,HTML/CSS,,Operations Manager,21,Australia,Master,Tier 2
+692,M.Tech,Mechanical,CAD,SolidWorks,Communication,,Mechanical Engineer,34,India,Bachelor,Tier 2
+693,M.Sc,Biotech,Documentation,Research,Data Analysis,,Biotech Researcher,31,UK,Bachelor,Tier 2
+694,B.Com,Business,SQL,Stakeholder Mgmt,Data Analysis,,Business Analyst,33,Remote,PhD,Tier 1
+695,B.Tech,Mechanical,MATLAB,Thermodynamics,Data Analysis,,Mechanical Engineer,34,UK,Bachelor,Tier 2
+696,BBA,HR,Leadership,Excel,Project Management,,HR Manager,32,Remote,Bachelor,Tier 3
+697,MCA,Computer Science,Python,Cloud,Communication,AWS,Cloud Engineer,22,Remote,Master,Tier 2
+698,B.Tech,Security,Python,,Research,,Security Analyst,24,UK,Bachelor,Tier 3
+699,B.Com,Business,UML,Stakeholder Mgmt,Communication,,Business Analyst,34,Remote,Bachelor,Tier 2
+700,B.Tech,Electrical,Networking,CCNA,Python,CCNA,Network Engineer,24,USA,Master,Tier 3
+701,B.Tech,Security,Incident Response,Python,HTML/CSS,,Security Analyst,27,India,PhD,Tier 3
+702,B.Tech,Data Science,SQL,Python,Data Analysis,,Data Analyst,39,UK,Master,Tier 3
+703,B.Tech,Operations,Analytics,Leadership,Data Analysis,,Operations Manager,28,Remote,Master,Tier 3
+704,MBA,Data Science,Python,Excel,Research,,Data Analyst,27,India,Master,Tier 2
+705,M.Tech,Mechanical,CAD,Thermodynamics,Leadership,,Mechanical Engineer,32,Canada,Master,Tier 2
+706,M.Tech,Management,Project Management,Risk Mgmt,HTML/CSS,PMP,Project Manager,33,India,Bachelor,Tier 2
+707,Ph.D,Biotech,Lab Techniques,Data Analysis,HTML/CSS,,Biotech Researcher,32,Australia,Bachelor,Tier 2
+708,B.Tech,Management,Scrum,Agile,Excel,Scrum,Scrum Master,28,India,Master,Tier 2
+709,Ph.D,Data Science,SQL,Data Analysis,Python,,Data Scientist,24,UK,PhD,Tier 2
+710,B.Tech,Security,SIEM,Incident Response,HTML/CSS,CCNA,Security Analyst,24,Germany,Bachelor,Tier 2
+711,MCA,Data Science,Spark,Hadoop,Project Management,Google Cloud,Data Engineer,29,USA,Bachelor,Tier 2
+712,M.Sc,Data Science,Machine Learning,TensorFlow,Research,Google Cloud,Machine Learning Engineer,32,Canada,Diploma,Tier 2
+713,MCA,Data Science,Spark,SQL,Python,AWS,Data Engineer,39,UK,Master,Tier 3
+714,B.Tech,Electrical,MATLAB,Proteus,Communication,,Electrical Engineer,25,Canada,Bachelor,Tier 2
+715,MBA,Sales,Communication,Excel,Leadership,,Sales Manager,23,Remote,Bachelor,Tier 3
+716,BBA,HR,Excel,Communication,Python,,HR Manager,24,Remote,PhD,Tier 2
+717,B.Com,Data Science,Excel,SQL,Research,AWS,Data Analyst,28,India,Master,Tier 2
+718,MBA,Operations,Logistics,Supply Chain,SQL,,Supply Chain Manager,23,Canada,PhD,Tier 2
+719,M.Tech,Electrical,Proteus,MATLAB,Communication,,Electrical Engineer,25,Canada,PhD,Tier 3
+720,B.Com,Marketing,Marketing,Analytics,Python,,Marketing Specialist,24,India,Bachelor,Tier 1
+721,Ph.D,Biotech,Lab Techniques,Data Analysis,SQL,,Biotech Researcher,32,USA,Master,Tier 2
+722,BBA,Business,CRM,Strategy,Data Analysis,,Business Development Manager,31,Canada,Bachelor,Tier 3
+723,MBA,Business,Strategy,Excel,Communication,,Business Development Manager,22,Germany,Bachelor,Tier 2
+724,B.Tech,Mechanical,MATLAB,Thermodynamics,Research,,Mechanical Engineer,40,Germany,Bachelor,Tier 3
+725,M.Tech,Electrical,Power Systems,Design,Communication,,Electrical Engineer,26,India,Master,Tier 3
+726,M.Tech,Computer Science,Cloud,Azure,Leadership,AWS,Cloud Engineer,39,Australia,Master,Tier 1
+727,B.Tech,Civil,Construction,AutoCAD,Data Analysis,,Civil Engineer,164.6089288,India,Bachelor,Tier 2
+728,B.Tech,Operations,ERP,Excel,Project Management,,Operations Manager,22,Australia,Bachelor,Tier 1
+729,MBA,Sales,Negotiation,Communication,SQL,,Sales Manager,27,USA,Bachelor,Tier 1
+730,Ph.D,Data Science,Pandas,Statistics,Communication,AWS,Data Scientist,22,Germany,Bachelor,Tier 1
+731,B.Tech,Electrical,Design,PLC,Project Management,,Electrical Engineer,26,Canada,Bachelor,Tier 1
+732,M.Tech,Chemical,Excel,MATLAB,Project Management,,Chemical Engineer,37,India,Diploma,Tier 1
+733,MBA,Operations,Supply Chain,Logistics,Research,,Supply Chain Manager,24,UK,Master,Tier 2
+734,MBA,Data Science,Excel,Data Analysis,Research,AWS,Data Analyst,31,Germany,Diploma,Tier 3
+735,B.Sc,Biotech,Data Analysis,PCR,Python,,Biotech Researcher,24,Australia,PhD,Tier 3
+736,Ph.D,Biotech,Biology,Research,Communication,,Biotech Researcher,26,Australia,Bachelor,Tier 2
+737,BBA,HR,Labor Laws,Leadership,Communication,,HR Manager,21,USA,Bachelor,Tier 2
+738,B.Tech,Business,Excel,SQL,Python,PMP,Business Analyst,26,UK,Master,Tier 2
+739,M.Tech,Security,Network,SIEM,Data Analysis,,Security Analyst,25,Canada,Master,Tier 1
+740,B.Tech,Business,Communication,UML,Research,PMP,Business Analyst,32,Remote,Master,Tier 3
+741,BBA,Marketing,Analytics,Communication,Excel,Google Cloud,Marketing Specialist,37,Australia,Bachelor,Tier 2
+742,B.Tech,Design,HTML/CSS,UI/UX,Excel,,UI/UX Designer,28,Australia,Bachelor,Tier 3
+743,BBA,Business,Excel,Strategy,SQL,,Business Development Manager,22,Remote,Master,Tier 2
+744,B.Tech,Electrical,Networking,Routers,Communication,CCNA,Network Engineer,24,USA,Bachelor,Tier 2
+745,M.Tech,Data Science,Statistics,Pandas,Project Management,,Data Scientist,36,USA,PhD,Tier 3
+746,BBA,Marketing,Communication,SEO,SQL,Google Cloud,Marketing Specialist,25,Canada,Bachelor,Tier 2
+747,B.Tech,Mechanical,CAD,MATLAB,Project Management,,Mechanical Engineer,25,USA,Diploma,Tier 3
+748,B.Sc,Biotech,Biology,Lab Techniques,Communication,,Biotech Researcher,23,Canada,Bachelor,Tier 3
+749,M.Tech,Civil,Design,Excel,Communication,,Civil Engineer,33,Canada,Bachelor,Tier 2
+750,BBA,Business,Sales,CRM,Python,,Business Development Manager,34,Australia,Bachelor,Tier 3
+751,M.Sc,Data Science,Machine Learning,TensorFlow,Communication,,Machine Learning Engineer,30,USA,Bachelor,Tier 3
+752,MBA,HR,Labor Laws,Excel,HTML/CSS,,HR Manager,28,UK,Bachelor,Tier 1
+753,MBA,Management,Agile,Scrum,Project Management,PMP,Scrum Master,24,Germany,Bachelor,Tier 2
+754,B.Tech,Mechanical,Thermodynamics,Project Mgmt,Project Management,,Mechanical Engineer,31,India,Bachelor,Tier 2
+755,M.Sc,Data Science,Python,Statistics,HTML/CSS,,Data Scientist,24,USA,Diploma,Tier 1
+756,B.Tech,Civil,Construction,AutoCAD,Project Management,,Civil Engineer,29,Australia,Master,Tier 2
+757,M.Tech,Electrical,PLC,Proteus,Leadership,,Electrical Engineer,28,Australia,Master,Tier 1
+758,B.Tech,Security,Linux,Incident Response,Python,,Security Analyst,33,Remote,Bachelor,Tier 2
+759,M.Tech,Civil,Project Management,AutoCAD,Data Analysis,,Civil Engineer,32,Canada,Master,Tier 3
+760,M.Tech,Electrical,MATLAB,Power Systems,Communication,,Electrical Engineer,33,Remote,Diploma,Tier 3
+761,BBA,Marketing,Analytics,Communication,Leadership,Google Cloud,Marketing Specialist,24,Remote,Master,Tier 2
+762,MBA,Data Science,Excel,Tableau,Python,AWS,Data Analyst,30,Germany,Master,Tier 2
+763,MBA,Operations,Operations,Analytics,Research,,Operations Manager,30,Canada,Diploma,Tier 3
+764,MBA,Business,Negotiation,CRM,Leadership,,Business Development Manager,24,UK,Bachelor,Tier 3
+765,MBA,Business,Strategy,CRM,SQL,,Business Development Manager,26,India,PhD,Tier 2
+766,B.Tech,Data Science,Python,Data Analysis,Leadership,AWS,Data Analyst,27,UK,Master,Tier 1
+767,B.Tech,Security,SIEM,Incident Response,Excel,,Security Analyst,23,Canada,Diploma,Tier 2
+768,M.Sc,Data Science,Pandas,Python,Project Management,Google Cloud,Data Scientist,35,Germany,Bachelor,Tier 2
+769,M.Tech,Security,Security,SIEM,HTML/CSS,CCNA,Security Analyst,34,Australia,Bachelor,Tier 2
+770,B.Com,Data Science,Python,PowerBI,SQL,AWS,Data Analyst,34,Remote,Bachelor,Tier 3
+771,B.Tech,Operations,ERP,Analytics,Project Management,,Operations Manager,21,Australia,Master,Tier 3
+772,B.Tech,Chemical,Safety,MATLAB,Leadership,,Chemical Engineer,32,Australia,Bachelor,Tier 1
+773,M.Tech,Data Science,Hadoop,Airflow,Excel,,Data Engineer,21,UK,Bachelor,Tier 3
+774,B.Tech,Civil,Design,AutoCAD,Project Management,,Civil Engineer,26,Canada,Bachelor,Tier 2
+775,B.Tech,Data Science,Python,Data Analysis,Leadership,,Data Analyst,21,Remote,Bachelor,Tier 2
+776,M.Tech,Security,Security,Linux,Leadership,CCNA,Security Analyst,21,UK,Master,Tier 2
+777,MBA,Operations,Operations,Excel,HTML/CSS,,Operations Manager,25,India,Bachelor,Tier 1
+778,BBA,HR,Recruitment,Communication,Excel,,HR Manager,31,Canada,Master,Tier 2
+779,M.Tech,Electrical,Routers,Networking,Excel,CCNA,Network Engineer,33,India,Bachelor,Tier 1
+780,M.Tech,Data Science,Airflow,ETL,Data Analysis,,Data Engineer,28,India,Bachelor,Tier 2
+781,B.Tech,Electrical,CCNA,Networking,Project Management,CCNA,Network Engineer,30,India,Diploma,Tier 2
+782,B.Tech,Electrical,Power Systems,Circuits,SQL,,Electrical Engineer,33,India,Bachelor,Tier 2
+783,MCA,Data Science,Spark,Hadoop,Project Management,Google Cloud,Data Engineer,34,Canada,Master,Tier 2
+784,M.Tech,Security,Network,Security,Communication,,Security Analyst,22,India,Master,Tier 3
+785,B.Sc,Biotech,Data Analysis,Documentation,Project Management,,Biotech Researcher,22,USA,Bachelor,Tier 2
+786,BBA,Business,Sales,Communication,HTML/CSS,,Business Development Manager,26,,Master,Tier 2
+787,B.Tech,Management,Agile,Scrum,SQL,PMP,Scrum Master,39,UK,Bachelor,Tier 2
+788,BBA,Sales,Excel,Strategy,Communication,,Sales Manager,25,Remote,PhD,Tier 2
+789,B.Com,Marketing,Communication,Social Media,Project Management,Google Cloud,Marketing Specialist,27,Canada,Diploma,Tier 3
+790,B.Tech,Operations,Supply Chain,Excel,Leadership,,Operations Manager,23,India,Master,Tier 1
+791,MBA,Business,Data Analysis,Excel,Leadership,PMP,,26,India,Bachelor,Tier 2
+792,MBA,Operations,Leadership,Excel,Python,,Operations Manager,27,Canada,Diploma,Tier 3
+793,MBA,Business,Strategy,Negotiation,Excel,,Business Development Manager,28,UK,Bachelor,Tier 3
+794,MBA,Management,PMP Skills,Project Management,Leadership,Scrum,Project Manager,32,Germany,Bachelor,Tier 2
+795,B.Tech,Operations,Operations,ERP,Excel,,Operations Manager,33,Remote,Diploma,Tier 3
+796,B.Tech,Security,SIEM,Linux,Data Analysis,,Security Analyst,34,Canada,Bachelor,Tier 3
+797,M.Tech,Mechanical,SolidWorks,CAD,Communication,,Mechanical Engineer,31,Germany,Bachelor,Tier 2
+798,BBA,HR,Payroll,Labor Laws,SQL,,HR Manager,24,India,Diploma,Tier 2
+799,B.Sc,Biotech,Lab Techniques,Biology,Data Analysis,,Biotech Researcher,33,Germany,PhD,Tier 3
+800,BBA,Marketing,Social Media,Analytics,SQL,Google Cloud,Marketing Specialist,32,Germany,Bachelor,Tier 3
+801,B.Tech,Civil,AutoCAD,Project Management,HTML/CSS,,Civil Engineer,25,India,PhD,Tier 1
+802,MCA,Data Science,ETL,SQL,Excel,,Data Engineer,26,Remote,Bachelor,Tier 2
+803,MBA,Business,Excel,Communication,Project Management,,Business Development Manager,31,,PhD,Tier 2
+804,BBA,Business,Negotiation,Communication,Excel,,Business Development Manager,25,USA,Master,Tier 3
+805,B.Tech,Business,Communication,UML,Communication,PMP,Business Analyst,23,India,Master,Tier 2
+806,M.Tech,Management,Project Management,Risk Mgmt,Leadership,PMP,Project Manager,33,Australia,Bachelor,Tier 3
+807,MBA,Operations,Supply Chain,Analytics,Research,,Operations Manager,30,USA,Master,Tier 2
+808,MBA,Business,SQL,Excel,HTML/CSS,,Business Analyst,22,Australia,Bachelor,Tier 3
+809,B.Tech,Operations,Supply Chain,ERP,Project Management,,Supply Chain Manager,25,Australia,Bachelor,Tier 3
+810,M.Tech,Security,Linux,SIEM,Communication,,Security Analyst,28,Remote,Bachelor,Tier 2
+811,Ph.D,Biotech,Research,Biology,HTML/CSS,,Biotech Researcher,31,Germany,Master,Tier 1
+812,MBA,Marketing,Marketing,Excel,Excel,Google Cloud,Marketing Specialist,23,Remote,PhD,Tier 2
+813,M.Tech,Mechanical,MATLAB,SolidWorks,Excel,,Mechanical Engineer,21,USA,Bachelor,Tier 1
+814,M.Tech,Mechanical,SolidWorks,Thermodynamics,Leadership,,Mechanical Engineer,32,Germany,Master,Tier 2
+815,M.Tech,Electrical,MATLAB,Circuits,Project Management,,Electrical Engineer,31,Australia,Master,Tier 3
+816,MCA,Data Science,SQL,ETL,Data Analysis,Google Cloud,Data Engineer,29,Australia,Bachelor,Tier 2
+817,MCA,Computer Science,Cloud,Terraform,HTML/CSS,Google Cloud,Cloud Engineer,31,Remote,Bachelor,Tier 2
+818,Ph.D,Biotech,Research,PCR,SQL,,Biotech Researcher,28,UK,Bachelor,Tier 2
+819,B.Com,Business,Communication,Data Analysis,Project Management,PMP,Business Analyst,36,Germany,Master,Tier 1
+820,Ph.D,Data Science,Data Analysis,Statistics,Leadership,Google Cloud,Data Scientist,33,USA,Master,Tier 2
+821,B.Com,Finance,SQL,Financial Modeling,Research,CFA,Financial Analyst,24,Germany,PhD,Tier 3
+822,M.Tech,Data Science,Spark,Hadoop,Project Management,AWS,Data Engineer,31,Canada,Bachelor,Tier 1
+823,MBA,Finance,Financial Modeling,Excel,Data Analysis,CFA,Financial Analyst,,USA,Bachelor,Tier 3
+824,B.Com,Finance,Data Analysis,Financial Modeling,Research,,Financial Analyst,32,Remote,Bachelor,Tier 3
+825,MBA,HR,Excel,Leadership,Research,,HR Manager,38,India,Master,Tier 3
+826,MBA,Design,HTML/CSS,UI/UX,Research,,UI/UX Designer,27,UK,Bachelor,Tier 3
+827,BBA,HR,Communication,Recruitment,SQL,,HR Manager,27,Australia,Master,Tier 2
+828,BBA,Sales,CRM,Leadership,Excel,,Sales Manager,27,Australia,Master,Tier 3
+829,Ph.D,Data Science,SQL,Python,Communication,,Data Scientist,31,UK,Master,Tier 2
+830,M.Tech,Electrical,TCP/IP,Networking,HTML/CSS,CCNA,Network Engineer,28,Remote,Master,Tier 3
+831,B.Tech,Chemical,MATLAB,Excel,Communication,,Chemical Engineer,31,Remote,Master,Tier 3
+832,MBA,Operations,Operations,Excel,Leadership,,Operations Manager,25,Germany,Bachelor,Tier 2
+833,M.Sc,Data Science,SQL,Statistics,Communication,Google Cloud,Data Scientist,28,Australia,Master,Tier 2
+834,MBA,Management,Leadership,Project Management,Python,PMP,Project Manager,26,UK,Bachelor,Tier 1
+835,M.Tech,Electrical,PLC,MATLAB,Python,,Electrical Engineer,26,Australia,Bachelor,Tier 3
+836,B.Tech,Security,Linux,Python,SQL,,Security Analyst,26,Germany,Master,Tier 1
+837,M.Tech,Electrical,MATLAB,PLC,Data Analysis,,Electrical Engineer,28,Australia,Bachelor,Tier 1
+838,MBA,Marketing,Excel,SEO,Project Management,Google Cloud,Marketing Specialist,30,Germany,Bachelor,Tier 2
+839,BBA,Marketing,Social Media,Analytics,Research,Google Cloud,Marketing Specialist,29,Remote,Master,Tier 3
+840,M.Sc,Biotech,Research,Biology,Data Analysis,,Biotech Researcher,29,Germany,PhD,Tier 3
+841,B.Com,Data Science,PowerBI,SQL,Leadership,,Data Analyst,29,Remote,Master,Tier 2
+842,B.Tech,Management,Scrum,Facilitation,Communication,Scrum,Scrum Master,28,Remote,Bachelor,Tier 2
+843,M.Sc,Data Science,Statistics,Data Analysis,Python,Google Cloud,Data Scientist,23,Remote,Bachelor,Tier 1
+844,M.Tech,Data Science,Airflow,Spark,Communication,AWS,Data Engineer,24,Canada,Bachelor,Tier 3
+845,B.Tech,Operations,Logistics,Supply Chain,Leadership,,Supply Chain Manager,25,Remote,Master,Tier 3
+846,B.Tech,Business,Excel,Communication,HTML/CSS,PMP,Business Analyst,29,Germany,Diploma,Tier 2
+847,B.Tech,Electrical,Power Systems,Circuits,Data Analysis,,Electrical Engineer,26,Canada,Bachelor,Tier 2
+848,MBA,HR,Labor Laws,Payroll,Communication,,HR Manager,24,Australia,Diploma,Tier 3
+849,M.Tech,Mechanical,SolidWorks,Thermodynamics,Python,,Mechanical Engineer,25,USA,Bachelor,Tier 1
+850,B.Com,Business,UML,Data Analysis,SQL,,Business Analyst,,Canada,Master,Tier 2
+851,B.Tech,Operations,Operations,Analytics,Communication,,Operations Manager,28,Remote,Bachelor,Tier 2
+852,M.Tech,Security,Python,Incident Response,Excel,,Security Analyst,34,Canada,Bachelor,Tier 1
+853,B.Tech,Security,SIEM,Linux,Excel,CCNA,Security Analyst,30,Australia,Bachelor,Tier 2
+854,M.Sc,Biotech,Lab Techniques,Research,Project Management,,Biotech Researcher,33,Canada,Bachelor,Tier 3
+855,M.Tech,Civil,AutoCAD,Design,Leadership,,Civil Engineer,32,Remote,Diploma,Tier 1
+856,B.Tech,Business,SQL,Data Analysis,HTML/CSS,PMP,Business Analyst,36,Australia,PhD,Tier 3
+857,MBA,Operations,Operations,Analytics,Research,,Operations Manager,25,India,Master,Tier 3
+858,B.Tech,Mechanical,Design,SolidWorks,SQL,,Mechanical Engineer,24,Australia,Bachelor,Tier 2
+859,B.Tech,Civil,Project Management,Surveying,Leadership,,Civil Engineer,24,Australia,Bachelor,Tier 2
+860,M.Tech,Data Science,Data Analysis,Pandas,SQL,,Data Scientist,24,UK,Bachelor,Tier 2
+861,M.Tech,Data Science,ETL,Hadoop,HTML/CSS,Google Cloud,Data Engineer,25,Germany,Bachelor,Tier 2
+862,BBA,HR,Leadership,Communication,SQL,,HR Manager,24,Canada,Master,Tier 1
+863,BA,Media,Content Strategy,Communication,SQL,,Content Writer,38,Remote,Bachelor,Tier 1
+864,B.Tech,Electrical,Networking,Routers,Leadership,CCNA,Network Engineer,23,UK,Diploma,Tier 2
+865,MBA,Business,SQL,Data Analysis,Leadership,PMP,Business Analyst,26,Germany,Bachelor,Tier 2
+866,M.Tech,Data Science,Python,Hadoop,Data Analysis,,Data Engineer,24,UK,Bachelor,Tier 3
+867,MCA,Data Science,Statistics,Machine Learning,SQL,AWS,Data Scientist,24,Germany,Bachelor,Tier 2
+868,B.Tech,Security,SIEM,Incident Response,SQL,,Security Analyst,28,Remote,Bachelor,Tier 2
+869,B.Tech,Chemical,Simulation,Safety,Excel,,Chemical Engineer,30,USA,Bachelor,Tier 3
+870,Ph.D,Biotech,Data Analysis,Lab Techniques,Project Management,,Biotech Researcher,27,Australia,Bachelor,Tier 1
+871,B.Tech,,Analytics,Supply Chain,Python,,Operations Manager,24,Germany,Bachelor,Tier 3
+872,B.Tech,Mechanical,Thermodynamics,SolidWorks,HTML/CSS,,Mechanical Engineer,27,UK,Bachelor,Tier 1
+873,B.Tech,Electrical,Power Systems,PLC,Research,,Electrical Engineer,30,Australia,Bachelor,Tier 2
+874,B.Tech,Civil,AutoCAD,Project Management,SQL,,Civil Engineer,139.9183443,UK,Bachelor,Tier 3
+875,M.Tech,Chemical,Simulation,Excel,Data Analysis,,Chemical Engineer,29,Australia,Bachelor,Tier 2
+876,M.Sc,Data Science,SQL,Data Analysis,Project Management,AWS,Data Scientist,22,USA,Master,Tier 2
+877,MCA,Data Science,Airflow,ETL,SQL,Google Cloud,Data Engineer,25,Australia,Master,Tier 1
+878,MBA,Sales,,Communication,Excel,,Sales Manager,22,USA,Bachelor,Tier 3
+879,B.Tech,Electrical,Power Systems,PLC,Excel,,Electrical Engineer,31,Germany,Master,Tier 1
+880,M.Tech,Management,Project Management,Leadership,Data Analysis,Scrum,Project Manager,170.6035315,Canada,Bachelor,Tier 3
+881,MBA,Sales,Strategy,Excel,SQL,,Sales Manager,30,Germany,Master,Tier 3
+882,B.Tech,Data Science,Excel,Data Analysis,Leadership,Google Cloud,Data Analyst,33,Canada,Bachelor,Tier 1
+883,BBA,Sales,Excel,Strategy,HTML/CSS,,Sales Manager,26,Canada,Master,Tier 3
+884,MBA,Business,Communication,Strategy,HTML/CSS,,Business Development Manager,25,USA,Bachelor,Tier 3
+885,B.Tech,Mechanical,CAD,Design,Excel,,Mechanical Engineer,31,India,PhD,Tier 3
+886,B.Tech,Chemical,Excel,Chemistry,Python,,Chemical Engineer,148.1978139,Germany,Master,Tier 2
+887,B.Sc,Biotech,PCR,Data Analysis,SQL,,Biotech Researcher,27,Australia,Master,Tier 3
+888,MBA,Business,Excel,CRM,Data Analysis,,Business Development Manager,28,Canada,Master,Tier 3
+889,MCA,Data Science,Hadoop,Spark,Data Analysis,AWS,Data Engineer,25,USA,Bachelor,Tier 3
+890,M.Tech,Chemical,Simulation,Chemistry,Excel,,Chemical Engineer,25,India,Bachelor,Tier 1
+891,MBA,Business,Excel,CRM,Data Analysis,,Business Development Manager,26,Australia,Master,Tier 3
+892,M.Tech,Civil,Project Management,Surveying,Communication,,Civil Engineer,25,Australia,Bachelor,Tier 2
+893,B.Tech,Security,Incident Response,Linux,Data Analysis,CCNA,Security Analyst,21,India,Bachelor,Tier 1
+894,M.Tech,Security,Network,Incident Response,Excel,CCNA,Security Analyst,33,USA,Bachelor,Tier 2
+895,BBA,HR,Leadership,Recruitment,HTML/CSS,,HR Manager,37,Australia,Master,Tier 1
+896,B.Tech,Chemical,Simulation,Safety,SQL,,Chemical Engineer,22,Canada,Bachelor,Tier 2
+897,Ph.D,Data Science,Machine Learning,Python,Communication,AWS,Machine Learning Engineer,34,Remote,Bachelor,Tier 3
+898,M.Tech,Mechanical,Thermodynamics,CAD,SQL,,Mechanical Engineer,22,Remote,PhD,Tier 1
+899,B.Tech,Security,SIEM,Linux,Leadership,,Security Analyst,25,USA,Bachelor,Tier 3
+900,M.Tech,Security,Python,Network,Excel,,Security Analyst,27,India,Bachelor,Tier 1
+901,MBA,Marketing,Social Media,Marketing,SQL,Google Cloud,Marketing Specialist,32,UK,Bachelor,Tier 2
+902,MBA,Marketing,Analytics,Marketing,Excel,Google Cloud,Marketing Specialist,25,USA,Bachelor,Tier 2
+903,M.Tech,Security,Network,SIEM,Data Analysis,CCNA,Security Analyst,22,UK,Bachelor,Tier 3
+904,M.Sc,Biotech,Biology,Research,Leadership,,Biotech Researcher,25,Germany,Bachelor,Tier 3
+905,MBA,Operations,ERP,Excel,Communication,,Operations Manager,23,Australia,Master,Tier 2
+906,MBA,Finance,Financial Modeling,Accounting,Excel,CFA,Financial Analyst,24,UK,Diploma,Tier 1
+907,M.Tech,Mechanical,Design,Thermodynamics,SQL,,Mechanical Engineer,25,Remote,Bachelor,Tier 1
+908,M.Tech,Data Science,SQL,Machine Learning,Python,,Data Scientist,25,USA,Diploma,Tier 1
+909,M.Sc,Data Science,ML Ops,Machine Learning,Data Analysis,AWS,Machine Learning Engineer,32,Germany,Master,Tier 2
+910,B.Com,Business,Excel,Communication,SQL,PMP,Business Analyst,25,Remote,Bachelor,Tier 1
+911,B.Tech,Chemical,Simulation,Excel,HTML/CSS,,Chemical Engineer,33,Australia,PhD,Tier 2
+912,B.Tech,Management,Agile,Scrum,Project Management,PMP,Scrum Master,33,UK,Master,Tier 2
+913,M.Tech,Electrical,MATLAB,PLC,Leadership,,Electrical Engineer,28,USA,Bachelor,Tier 1
+914,B.Tech,Mechanical,Design,MATLAB,HTML/CSS,,Mechanical Engineer,27,Germany,Bachelor,Tier 2
+915,M.Tech,Civil,Construction,Surveying,Excel,,Civil Engineer,23,Canada,Diploma,Tier 3
+916,M.Tech,Data Science,Machine Learning,Pandas,Leadership,AWS,Data Scientist,26,Canada,Diploma,Tier 3
+917,M.Sc,Data Science,SQL,Statistics,Data Analysis,AWS,Data Scientist,23,Remote,Bachelor,Tier 2
+918,B.Tech,Security,Python,Incident Response,Research,CCNA,Security Analyst,34,Canada,Master,Tier 1
+919,B.Tech,Mechanical,Thermodynamics,MATLAB,Python,,Mechanical Engineer,25,Australia,Bachelor,Tier 3
+920,B.Tech,Data Science,Hadoop,ETL,Research,,Data Engineer,25,USA,Bachelor,Tier 3
+921,B.Tech,Security,Linux,Incident Response,Communication,CCNA,Security Analyst,28,India,Bachelor,Tier 3
+922,MBA,Finance,Financial Modeling,SQL,Research,,Financial Analyst,35,Germany,Bachelor,Tier 3
+923,M.Tech,Data Science,SQL,Statistics,Research,AWS,Data Scientist,31,UK,Master,Tier 1
+924,B.Tech,Mechanical,MATLAB,Thermodynamics,Excel,,Mechanical Engineer,34,Canada,Bachelor,Tier 3
+925,MCA,Data Science,Spark,Airflow,Python,Google Cloud,Data Engineer,27,USA,Bachelor,Tier 2
+926,BBA,Sales,Leadership,Negotiation,Data Analysis,,Sales Manager,36,Australia,Master,Tier 3
+927,M.Tech,Security,Security,Network,SQL,,Security Analyst,31,India,Bachelor,Tier 2
+928,B.Tech,Operations,Leadership,Supply Chain,Python,,Operations Manager,35,Remote,Bachelor,Tier 3
+929,Ph.D,Data Science,Statistics,Data Analysis,Project Management,,Data Scientist,34,UK,Bachelor,Tier 2
+930,B.Tech,Operations,Leadership,Operations,Python,,Operations Manager,33,UK,Master,Tier 2
+931,Ph.D,Biotech,Data Analysis,Research,HTML/CSS,,Biotech Researcher,33,Germany,PhD,Tier 2
+932,MCA,Data Science,Statistics,Data Analysis,Research,Google Cloud,Data Scientist,37,USA,Diploma,Tier 3
+933,BBA,Marketing,Marketing,Analytics,Python,Google Cloud,Marketing Specialist,31,USA,PhD,Tier 3
+934,B.Tech,Civil,Design,Surveying,Leadership,,Civil Engineer,32,Germany,Bachelor,Tier 2
+935,B.Tech,Security,Security,Incident Response,Excel,,Security Analyst,27,Remote,Bachelor,Tier 1
+936,B.Com,Data Science,Data Analysis,Excel,Project Management,,Data Analyst,37,UK,Master,Tier 1
+937,MBA,Management,Communication,Scrum,HTML/CSS,PMP,Scrum Master,38,Australia,Master,Tier 1
+938,MBA,HR,Communication,Excel,Communication,,HR Manager,31,Australia,Diploma,Tier 1
+939,B.Tech,Civil,Construction,Design,Python,,Civil Engineer,28,India,Master,Tier 2
+940,M.Tech,Mechanical,Project Mgmt,Design,Research,,Mechanical Engineer,25,UK,Master,Tier 1
+941,B.Tech,Electrical,Design,PLC,Communication,,Electrical Engineer,33,Remote,Bachelor,Tier 1
+942,B.Tech,Mechanical,Design,CAD,Python,,Mechanical Engineer,,Germany,Master,Tier 2
+943,B.Tech,Chemical,Simulation,Safety,Data Analysis,,Chemical Engineer,22,Canada,Master,Tier 3
+944,B.Sc,Biotech,Biology,PCR,Excel,,Biotech Researcher,24,Canada,Diploma,Tier 2
+945,B.Tech,Electrical,MATLAB,Proteus,Project Management,,Electrical Engineer,25,UK,Bachelor,Tier 3
+946,MCA,Data Science,SQL,Pandas,Project Management,AWS,Data Scientist,31,India,Bachelor,Tier 3
+947,MBA,Management,PMP Skills,Communication,Project Management,PMP,Project Manager,34,Germany,Bachelor,Tier 2
+948,M.Tech,Data Science,ETL,Airflow,Excel,Google Cloud,Data Engineer,25,UK,Bachelor,Tier 2
+949,M.Sc,Biotech,Documentation,Biology,Project Management,,Biotech Researcher,31,USA,Master,Tier 1
+950,BBA,Business,Communication,Excel,Project Management,,Business Development Manager,27,India,Bachelor,Tier 3
+951,Ph.D,Data Science,Machine Learning,Pandas,Data Analysis,,Data Scientist,26,Australia,Bachelor,Tier 3
+952,BBA,Sales,Negotiation,Communication,Project Management,,Sales Manager,31,USA,Bachelor,Tier 3
+953,MBA,Sales,CRM,Communication,HTML/CSS,,Sales Manager,28,Canada,Bachelor,Tier 2
+954,M.Sc,Data Science,Machine Learning,SQL,Leadership,,Machine Learning Engineer,25,Canada,Diploma,Tier 2
+955,BBA,Marketing,Communication,Social Media,HTML/CSS,,Marketing Specialist,29,UK,Master,Tier 2
+956,B.Tech,Civil,Project Management,Design,Research,,Civil Engineer,22,India,PhD,Tier 3
+957,MCA,Data Science,Python,SQL,Communication,Google Cloud,Data Engineer,30,Australia,Master,Tier 3
+958,M.Tech,Civil,AutoCAD,Surveying,Leadership,,Civil Engineer,27,USA,Bachelor,Tier 1
+959,B.Com,Marketing,Communication,Excel,Data Analysis,,Marketing Specialist,28,Remote,Bachelor,Tier 3
+960,MBA,Operations,Operations,Supply Chain,Python,,Operations Manager,24,Canada,Master,Tier 2
+961,B.Tech,Chemical,Safety,Chemistry,Leadership,,Chemical Engineer,167.1080466,India,PhD,Tier 1
+962,B.Tech,Management,Facilitation,Scrum,Leadership,PMP,Scrum Master,37,Canada,Bachelor,Tier 2
+963,MCA,Computer Science,Cloud,Python,Leadership,Google Cloud,Cloud Engineer,23,Germany,Master,Tier 3
+964,BBA,HR,Payroll,Leadership,Research,,HR Manager,33,UK,Bachelor,Tier 2
+965,MBA,Marketing,Social Media,SEO,Leadership,,Marketing Specialist,33,USA,Bachelor,Tier 2
+966,B.Tech,Security,Network,Linux,HTML/CSS,,Security Analyst,33,Canada,Bachelor,Tier 2
+967,MBA,Sales,Excel,CRM,Python,,Sales Manager,26,USA,PhD,Tier 2
+968,M.Tech,Chemical,Excel,Process Design,Python,,Chemical Engineer,21,Canada,Bachelor,Tier 1
+969,BBA,Sales,Excel,Communication,Python,,Sales Manager,,Germany,Bachelor,Tier 3
+970,M.Sc,Data Science,Python,Data Analysis,SQL,AWS,Data Scientist,32,USA,Bachelor,Tier 2
+971,B.Tech,Electrical,Networking,CCNA,Leadership,CCNA,Network Engineer,34,UK,Master,Tier 1
+972,B.Tech,Operations,Operations,ERP,SQL,,Operations Manager,39,UK,Master,Tier 2
+973,MBA,Management,Project Management,Leadership,HTML/CSS,Scrum,Project Manager,22,UK,Master,Tier 1
+974,M.Tech,Mechanical,MATLAB,CAD,Leadership,,Mechanical Engineer,25,UK,PhD,Tier 2
+975,BBA,Business,Communication,CRM,Data Analysis,,Business Development Manager,22,UK,Master,Tier 2
+976,B.Tech,Security,Network,Python,Project Management,,Security Analyst,30,Canada,Master,Tier 3
+977,M.Tech,Electrical,Networking,TCP/IP,,CCNA,Network Engineer,22,Germany,Master,Tier 2
+978,M.Tech,Security,Security,SIEM,Leadership,,Security Analyst,25,Germany,Diploma,Tier 2
+979,MBA,HR,Labor Laws,Payroll,SQL,,HR Manager,32,Canada,Bachelor,Tier 3
+980,BBA,Sales,Strategy,Communication,SQL,,Sales Manager,28,India,Bachelor,Tier 3
+981,B.Tech,Civil,Construction,Surveying,Python,,Civil Engineer,25,Remote,Bachelor,Tier 3
+982,BBA,HR,Communication,Recruitment,Excel,,HR Manager,24,India,Bachelor,Tier 3
+983,MBA,Operations,Logistics,Supply Chain,SQL,,Supply Chain Manager,21,UK,Bachelor,Tier 3
+984,M.Sc,Biotech,Biology,Documentation,Research,,Biotech Researcher,30,Canada,PhD,Tier 2
+985,MBA,Management,Scrum,Facilitation,Excel,PMP,Scrum Master,35,USA,Master,Tier 1
+986,M.Tech,Electrical,Design,MATLAB,Data Analysis,,Electrical Engineer,33,UK,Bachelor,Tier 2
+987,BBA,HR,Communication,Recruitment,Leadership,,HR Manager,24,Remote,Master,Tier 2
+988,BBA,Business,Strategy,Sales,Excel,,Business Development Manager,21,India,Bachelor,Tier 3
+989,MBA,Management,Project Management,Excel,Communication,PMP,Project Manager,24,Canada,Diploma,Tier 2
+990,B.Tech,Civil,Excel,Design,Communication,,Civil Engineer,25,Australia,Bachelor,Tier 3
+991,M.Tech,Security,Network,Linux,Communication,,Security Analyst,24,Canada,Master,Tier 1
+992,B.Com,Finance,Excel,Financial Modeling,HTML/CSS,,Financial Analyst,32,Remote,Master,Tier 1
+993,MCA,Data Science,Statistics,Python,Research,Google Cloud,Data Scientist,26,,Master,Tier 2
+994,M.Tech,Electrical,Circuits,Proteus,SQL,,Electrical Engineer,33,Australia,Bachelor,Tier 2
+995,B.Tech,Management,Scrum,Facilitation,Python,Scrum,Scrum Master,25,Germany,Master,Tier 1
+996,MBA,HR,Labor Laws,Excel,HTML/CSS,,HR Manager,32,India,PhD,Tier 2
+997,B.Tech,Electrical,PLC,MATLAB,Leadership,,Electrical Engineer,34,Canada,Master,Tier 2
+998,M.Tech,Chemical,Excel,Chemistry,Research,,Chemical Engineer,163.6471036,Canada,Master,Tier 1
+999,MBA,Business,Stakeholder Mgmt,UML,HTML/CSS,PMP,Business Analyst,33,Remote,Bachelor,Tier 3
+1000,BBA,Sales,Negotiation,Excel,SQL,,Sales Manager,22,UK,Bachelor,Tier 2
