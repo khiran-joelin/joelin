@@ -1,4 +1,0 @@
-email,name,education,degree,domain,skill1,skill2,skill3,certificate,age,location,education_level,university_tier,prediction_1,confidence_1,prediction_2,confidence_2,prediction_3,confidence_3,education_gap,education_gap_dummy
-iamkhiranjoelin@gmail.com,Khiran Joelin,Bachelor,B.Tech,Computer Science,Azure,AWS,Analytics,AWS,25,India,Bachelor,Tier 1,Security Analyst,49.5,Sales Manager,16.5,Data Scientist,16.0,,
-iamkhiranjoelin@gmail.com,Khiran Joelin,Bachelor,B.Tech,Computer Science,Data Analysis,PowerBI,Analytics,Google Cloud,25,India,Bachelor,Tier 1,Project Manager,37.0,Security Analyst,23.5,Scrum Master,15.0,,
-iamkhiranjoelin@gmail.com,Khiran Joelin,Bachelor,B.Tech,Biotech,AWS,Machine Learning,Networking,Google Cloud,25,India,Bachelor,Tier 1,Project Manager,50.0,Scrum Master,18.0,Data Scientist,11.0,1.0,1.0
